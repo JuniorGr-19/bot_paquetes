@@ -17,7 +17,7 @@
 # Al final muestra un aviso con el resumen de todas las sedes. Todo queda en bot_log.txt y en registros/.
 #
 # Requisitos (solo la primera vez): python -m pip install playwright pywinauto
-# Uso: python bot_paquetes.py
+# Uso: python bot_paquetes.py --auto   (token.txt; no pide iniciar sesión en Witlink)
 
 import ctypes                                # ctypes permite llamar a funciones de Windows (saber qué ventana está al frente)
 import datetime                              # datetime permite calcular la fecha de ayer
@@ -2382,6 +2382,270 @@ def main():
         input("Presiona Enter para terminar (tu Chrome queda abierto)...")
 
 
-# Solo ejecuta main() si el archivo se corre directamente (no si se importa desde otro archivo)
+# ---------------- TOKEN, COMO LA PRIMERA VERSIÓN AUTOMÁTICA ----------------
+# No abre Chrome ni pide iniciar sesión. Witlink manda las SOTs (ayer y hoy) y el bot
+# las trabaja en el SGA que ya está abierto.
+URL_API_BOT = "https://www.witlink.com.pe/sots/api_bot_paquetes.php"
+ARCHIVO_TOKEN = os.path.join(os.path.dirname(os.path.abspath(__file__)), "token.txt")
+AUTO_CADA = 15 * 60
+AUTO_HORA_INICIO = 7
+AUTO_HORA_FIN = 23
+AUTO_PUERTO_UNICO = 47831
+AUTO_LOTE_RESULTADOS = 20
+AUTO_PING_CADA = 2 * 60
+AUTO_ESPERA_TRAS_ERROR = 2 * 60
+AUTO_MAX_SOTS_POR_VUELTA = 80
+TOKEN_BOT = ""
+
+
+def _contexto_https():
+    import ssl
+    try:
+        import certifi
+        return ssl.create_default_context(cafile=certifi.where())
+    except Exception:
+        return ssl.create_default_context()
+
+
+def _abrir_api(pedido):
+    import ssl
+    import urllib.error
+    import urllib.request
+    try:
+        return urllib.request.urlopen(pedido, timeout=120, context=_contexto_https())
+    except urllib.error.URLError as error:
+        if "CERTIFICATE_VERIFY_FAILED" not in str(error):
+            raise
+        print("Esta PC no reconoce el certificado de Witlink. La llamada sigue, sin esa verificación.")
+        return urllib.request.urlopen(pedido, timeout=120, context=ssl._create_unverified_context())
+
+
+def _api(metodo, datos=None, consulta=""):
+    import urllib.error
+    import urllib.request
+    cuerpo = json.dumps(datos).encode("utf-8") if datos is not None else None
+    pedido = urllib.request.Request(URL_API_BOT + consulta, data=cuerpo, method=metodo, headers={
+        "X-Bot-Token": TOKEN_BOT, "Content-Type": "application/json", "User-Agent": "WitlinkBotPaquetes/1.0"})
+    try:
+        with _abrir_api(pedido) as respuesta:
+            return json.loads(respuesta.read().decode("utf-8-sig"))
+    except urllib.error.HTTPError as error:
+        try:
+            detalle = json.loads(error.read().decode("utf-8-sig")).get("error", "")
+        except Exception:
+            detalle = ""
+        raise RuntimeError(f"Witlink respondió {error.code} {detalle}".strip())
+
+
+def _ping(estado):
+    try:
+        _api("POST", {"accion": "ping", "estado": estado})
+    except Exception as error:
+        print(f"   (no pude avisar a Witlink: {error})")
+
+
+class _PingDeFondo:
+    def __init__(self, estado):
+        import threading
+        self.estado, self.seguir = estado, True
+        self.hilo = threading.Thread(target=self._correr, daemon=True)
+
+    def __enter__(self):
+        self.hilo.start()
+        return self
+
+    def __exit__(self, *args):
+        self.seguir = False
+
+    def _correr(self):
+        while self.seguir:
+            _ping(self.estado)
+            for _ in range(AUTO_PING_CADA):
+                if not self.seguir:
+                    return
+                time.sleep(1)
+
+
+def _esperar_hasta(limite, estado):
+    while time.time() < limite:
+        _ping(estado)
+        time.sleep(min(AUTO_PING_CADA, max(1, limite - time.time())))
+
+
+def calcular_en_sga(pendientes, fecha):
+    """Misma pasada de SGA. Las SOTs llegan por el token, no por iniciar sesión en Witlink."""
+    global DEPARTAMENTO, SEDE_ACTUAL
+    DEPARTAMENTO, SEDE_ACTUAL = "TODAS LAS SEDES", None
+    alta, instalaciones, mantenimientos, fuera = [], [], [], []
+    for p in pendientes:
+        sot = str(p.get("sot") or "").strip()
+        tipo = p.get("tipo") or ""
+        if not sot:
+            continue
+        if es_mantenimiento(tipo):
+            mantenimientos.append(sot)
+        else:
+            alta.append(sot)
+            if es_instalacion(tipo):
+                instalaciones.append(sot)
+            if _normalizar(tipo) == "FUERA DE TOA":
+                fuera.append(sot)
+    print(f"Instalación/postventa: {len(alta)} | mantenimiento: {len(mantenimientos)} | "
+          f"'Fuera de TOA': {len(fuera)}")
+    resultados, errores = {}, []
+    if not alta and not mantenimientos:
+        return resultados, errores
+    sga = abrir_sga()
+    abrir_control_tareas(sga)
+    if alta:
+        try:
+            copiar_al_portapapeles(alta)
+            abrir_witlink_en_arbol(sga)
+            filtros = abrir_buscar(sga)
+            dialogo = clic_puntos_sot(sga, filtros)
+            pegar_y_cargar_sots(sga, dialogo, len(alta))
+            cargar_lista_y_primera_sot(sga)
+            _, por_cid, total_filas = leer_sots_y_tipo_trabajo(sga, alta)
+            resultados = calcular_paquetes_sga(sga, alta, por_cid, total_filas, instalaciones, fecha)
+        except Exception as falla:
+            errores.append(f"ALTA BAJA: {type(falla).__name__}: {falla}")
+            print("ERROR en ALTA BAJA:", errores[-1])
+    manto = list(mantenimientos)
+    for sot in fuera:
+        if sot not in resultados and sot not in manto:
+            manto.append(sot)
+    if manto:
+        try:
+            print(f"\nMANTENIMIENTOS: {len(manto)} SOTs -> CONTRATISTA MANTO HFC")
+            copiar_al_portapapeles(manto)
+            abrir_witlink_en_arbol(sga, NODO_MANTENIMIENTO, exacto=True)
+            filtros = abrir_buscar(sga)
+            dialogo = clic_puntos_sot(sga, filtros)
+            pegar_y_cargar_sots(sga, dialogo, len(manto))
+            cargar_lista_y_primera_sot(sga)
+            calcular_mantenimientos(sga, manto, fecha, resultados)
+        except Exception as falla:
+            errores.append(f"MANTO: {type(falla).__name__}: {falla}")
+            print("ERROR en MANTO:", errores[-1])
+    return resultados, errores
+
+
+def enviar_resultados(pendientes, resultados, vuelta_completa):
+    items = []
+    for p in pendientes:
+        sot = str(p.get("sot") or "").strip()
+        dato = resultados.get(sot)
+        fecha = str(p.get("fecha") or "")
+        if dato and dato.get("paquete"):
+            items.append({"sot": sot, "paquete": dato["paquete"], "motivo": dato.get("motivo", ""), "fecha": fecha})
+        elif dato:
+            items.append({"sot": sot, "paquete": None,
+                          "motivo": f"{dato.get('tipo', '')}: {dato.get('motivo', '')}", "fecha": fecha})
+        elif vuelta_completa:
+            items.append({"sot": sot, "paquete": None, "fecha": fecha,
+                          "motivo": "no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)"})
+    llenadas = sin_paquete = 0
+    for inicio in range(0, len(items), AUTO_LOTE_RESULTADOS):
+        lote = items[inicio:inicio + AUTO_LOTE_RESULTADOS]
+        respuesta = _api("POST", {"accion": "resultados", "items": lote})
+        for r in respuesta.get("resultados", []):
+            if r.get("estado") == "llenada":
+                llenadas += 1
+            elif r.get("estado") not in ("ya_tenia",):
+                sin_paquete += 1
+            print(f"   {r.get('sot')}: {r.get('estado')} - {r.get('detalle', '')}")
+    return llenadas, sin_paquete
+
+
+class _RegistroDiario:
+    def __init__(self, consola, carpeta):
+        self.consola, self.carpeta, self.dia, self.archivo = consola, carpeta, None, None
+
+    def write(self, texto):
+        self.consola.write(texto)
+        hoy = datetime.date.today()
+        if hoy != self.dia:
+            if self.archivo:
+                self.archivo.close()
+            self.dia = hoy
+            os.makedirs(self.carpeta, exist_ok=True)
+            self.archivo = open(os.path.join(self.carpeta, f"auto_{hoy:%Y%m%d}.txt"), "a", encoding="utf-8")
+        self.archivo.write(texto)
+        self.archivo.flush()
+
+    def flush(self):
+        self.consola.flush()
+
+
+def main_auto():
+    global TOKEN_BOT
+    import socket
+    carpeta = os.path.dirname(os.path.abspath(__file__))
+    sys.stdout = _RegistroDiario(sys.stdout, os.path.join(carpeta, "registros"))
+    unico = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    try:
+        unico.bind(("127.0.0.1", AUTO_PUERTO_UNICO))
+    except OSError:
+        print("Ya hay un bot automático abierto en esta PC. Cierra esta ventana.")
+        input("Presiona Enter para salir...")
+        return
+    TOKEN_BOT = ""
+    for ruta in (ARCHIVO_TOKEN, ARCHIVO_TOKEN + ".txt"):
+        try:
+            with open(ruta, encoding="utf-8-sig") as f:
+                TOKEN_BOT = f.read().strip()
+        except OSError:
+            continue
+        if TOKEN_BOT:
+            break
+    if not TOKEN_BOT:
+        print(f"Falta el token. Pégalo en este archivo y vuelve a abrir el bot:\n{ARCHIVO_TOKEN}")
+        input("Presiona Enter para salir...")
+        return
+    print(f"Bot de paquetes AUTOMÁTICO iniciado el {datetime.datetime.now():%d/%m/%Y %H:%M:%S}.")
+    print(f"Horario: {AUTO_HORA_INICIO}:00 a {AUTO_HORA_FIN}:00, una vuelta cada {AUTO_CADA // 60} min. "
+          f"Ctrl+C para detenerlo. SGA debe quedar abierto con sesión.")
+    while True:
+        try:
+            ahora = datetime.datetime.now()
+            inicio_vuelta = time.time()
+            if not (AUTO_HORA_INICIO <= ahora.hour < AUTO_HORA_FIN):
+                _ping(f"Fuera de horario (trabaja de {AUTO_HORA_INICIO}:00 a {AUTO_HORA_FIN}:00)")
+                time.sleep(10 * 60)
+                continue
+            datos = _api("GET", consulta="?accion=pendientes")
+            pendientes = (datos.get("sots") or [])[:AUTO_MAX_SOTS_POR_VUELTA]
+            if not pendientes:
+                print(f"{ahora:%H:%M:%S} Sin SOTs ATENDIDAS pendientes de paquete.")
+                _esperar_hasta(inicio_vuelta + AUTO_CADA, "Sin atendidas pendientes")
+                continue
+            fecha = datetime.date.today()
+            print(f"\n======== VUELTA {ahora:%H:%M:%S}: {len(pendientes)} SOTs ATENDIDAS sin paquete ========")
+            for p in pendientes:
+                print(f"   {p['sot']}  {p.get('fecha', '')}  {p.get('departamento', '')}  {p.get('tipo', '')}")
+            ciclo_id = _api("POST", {"accion": "ciclo_inicio", "pendientes": len(pendientes)}).get("ciclo_id", 0)
+            with _PingDeFondo(f"Trabajando {len(pendientes)} SOTs en SGA"):
+                resultados, errores = calcular_en_sga(pendientes, fecha)
+            error = " | ".join(errores)[:450]
+            llenadas, sin_paquete = enviar_resultados(pendientes, resultados, vuelta_completa=not errores)
+            _api("POST", {"accion": "ciclo_fin", "ciclo_id": ciclo_id, "llenadas": llenadas,
+                          "sin_paquete": sin_paquete, "error": error})
+            print(f"Vuelta terminada: {llenadas} llenadas, {sin_paquete} sin paquete"
+                  + (f", error: {error}" if error else ""))
+            _esperar_hasta(inicio_vuelta + AUTO_CADA,
+                           f"Última vuelta: {llenadas} llenadas, {sin_paquete} sin paquete"
+                           + (" (con error)" if error else ""))
+        except KeyboardInterrupt:
+            print("Bot automático detenido.")
+            _ping("Detenido a mano")
+            break
+        except Exception as falla:
+            print(f"{datetime.datetime.now():%H:%M:%S} ERROR: {type(falla).__name__}: {falla}")
+            time.sleep(AUTO_ESPERA_TRAS_ERROR)
+
+
 if __name__ == "__main__":
-    main()
+    if "--auto" in sys.argv:
+        main_auto()
+    else:
+        main()

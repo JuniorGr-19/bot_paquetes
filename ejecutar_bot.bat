@@ -1,7 +1,7 @@
 @echo off
-rem Ejecuta el bot de paquetes desde esta carpeta (doble clic).
-rem La primera vez instala lo que necesita (playwright y pywinauto).
+rem Igual que la primera version: token, sin iniciar sesion en Witlink.
+rem SGA debe quedar abierto. El token va en token.txt.
 cd /d "%~dp0"
 python -m pip install -q -r requirements.txt
-python bot_paquetes.py
+python bot_paquetes.py --auto
 pause
