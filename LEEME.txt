@@ -1,0 +1,13 @@
+BOT DE PAQUETES - como usarlo en una PC nueva
+=============================================
+
+1. Instalar Python (python.org). En el instalador marcar "Add Python to PATH".
+2. Tener Google Chrome instalado.
+3. Abrir SGA e iniciar sesion.
+4. Doble clic en ejecutar_bot.bat
+   - La primera vez instala solo lo que necesita (requiere internet).
+   - La primera vez se abre Chrome: iniciar sesion en Witlink una sola vez.
+     La sesion queda guardada en la carpeta perfil_chrome (se crea sola).
+
+Archivos que se crean solos al correr (no borrar mientras corre):
+  perfil_chrome\  bot_log.txt  registros\  progreso_paquetes.json
