@@ -393,11 +393,12 @@ def es_entrega_mesh(tipo):
 
 def paquete_entrega_mesh(servicios):
     """Solo para las WA ENTREGA: cuentan como MESH (según su cantidad) las líneas tipo
-    'Velocidad Total 1000 Mbps - Bono', 'Full Claro 200 Mbps' (o parecidas) y los repetidores
-    (por ejemplo 'Alquiler de Equipos INT-REPETIDOR...').
+    'Velocidad Total 1000 Mbps - Bono', 'Full Claro 200 Mbps', 'FTTH Internet 200 Mbps' (cualquier número; Mbps, MPbps, Gbps...)
+    y los repetidores (por ejemplo 'Alquiler de Equipos INT-REPETIDOR...').
     -> 'INSTALACION MESH' (uno) / 'INSTALACION N MESH'. Devuelve None si no encuentra ninguno."""
     bonos = sum(_cantidad(c) for s_, c in servicios
-                if any(p in _normalizar(s_) for p in ("BONO", "VELOCIDAD TOTAL", "FULL CLARO")))
+                if any(p in _normalizar(s_) for p in ("BONO", "VELOCIDAD TOTAL", "FULL CLARO"))
+                or (not es_equipo(s_) and "INTERNET" in _normalizar(s_) and re.search(r"\d+\s*[MG]", _normalizar(s_))))
     repetidores = sum(_cantidad(c) for s_, c in servicios
                       if es_equipo(s_) and ("REPETIDOR" in _normalizar(s_) or "MESH" in _normalizar(s_)))
     mesh = bonos + repetidores
