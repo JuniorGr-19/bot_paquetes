@@ -1,85 +1,143 @@
-Falta el token. Pégalo en este archivo y vuelve a abrir el bot:
-C:\bot_paquetes-main\token.txt
-Presiona Enter para salir...Bot de paquetes AUTOMÁTICO iniciado el 07/10/2026 13:15:54.
+Bot de paquetes AUTOMÁTICO iniciado el 09/10/2026 10:12:16.
 Horario: 7:00 a 23:00, una vuelta cada 15 min. Ctrl+C para detenerlo. SGA debe quedar abierto con sesión.
 
-======== VUELTA 13:15:54: 43 SOTs ATENDIDAS sin paquete ========
+======== VUELTA 10:12:16: 80 SOTs ATENDIDAS sin paquete ========
+   91492619  2026-10-05  LAMBAYEQUE  FTTH Mantenimiento
+   91493781  2026-10-05  LAMBAYEQUE  FTTH Mantenimiento
    91542289  2026-10-06  ANCASH  FTTH Mantenimiento
    91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
    91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91533084  2026-10-06  LAMBAYEQUE  FTTH Cambio de plan
    91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91536713  2026-10-07  ANCASH  HFC Instalación
-   91539871  2026-10-07  ANCASH  FTTH Mantenimiento
-   91533208  2026-10-07  ANCASH  FTTH Instalacion
-   91533738  2026-10-07  ANCASH  FTTH Instalacion
-   91530974  2026-10-07  ANCASH  FTTH Cambio de plan
-   91542872  2026-10-07  ANCASH  HFC Instalación
-   91541659  2026-10-07  ANCASH  FTTH Instalacion
-   91546856  2026-10-07  ANCASH  FTTH Mantenimiento
-   91551868  2026-10-07  ANCASH  HFC Instalación
-   91551249  2026-10-07  ANCASH  FTTH - PV MIGRACION HFC A FTTH
-   91547333  2026-10-07  CAJAMARCA - CHOTA  FTTH Instalacion
-   91544856  2026-10-07  CAJAMARCA - CHOTA  FTTH Instalacion
-   91451224  2026-10-07  CAJAMARCA - JAEN  FTTH Instalacion
-   91536951  2026-10-07  CAJAMARCA - JAEN  FTTH Cambio de plan
-   91551477  2026-10-07  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
-   91531850  2026-10-07  LA LIBERTAD - WITLINK  HFC - MANTENIMIENTO
-   91527411  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-   91545425  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91509853  2026-10-07  LA LIBERTAD - WITLINK  HFC Instalación
-   91531671  2026-10-07  LA LIBERTAD - WITLINK  HFC - MANTENIMIENTO
-   91539767  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91537934  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91494672  2026-10-07  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
-   91530360  2026-10-07  LA LIBERTAD - WITLINK  HFC - MANTENIMIENTO
-   91504726  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91505276  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91551421  2026-10-07  LAMBAYEQUE  FTTH Cambio de plan
-   91501417  2026-10-07  LAMBAYEQUE  FTTH - PV ALTA ACCESORIO ADICIONAL
-   91536571  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91462442  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91552312  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91527830  2026-10-07  LAMBAYEQUE  FTTH - MANTENIMIENTO
-   91554706  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91499179  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91537775  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91537330  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91545775  2026-10-07  PIURA  FTTH Instalacion
-   91534296  2026-10-07  PIURA  HFC Instalación
-Instalación/postventa: 29 | mantenimiento: 14 | 'Fuera de TOA': 0
+   91541055  2026-10-07  ANCASH  FTTH Instalacion
+   91525094  2026-10-07  ANCASH  FTTH - MANTENIMIENTO
+   91560283  2026-10-07  ANCASH  FTTH Instalacion
+   91534527  2026-10-07  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91556202  2026-10-07  ANCASH  FTTH WA ENTREGA REPETIDOR MESH
+   91559111  2026-10-07  ANCASH  FTTH Instalacion
+   91542221  2026-10-07  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91234380  2026-10-07  LA LIBERTAD - WITLINK  HFC - WA ENTREGA MESH
+   91551906  2026-10-07  LAMBAYEQUE  FTTH Instalacion
+   91508381  2026-10-07  LAMBAYEQUE  FTTH - MANTENIMIENTO
+   91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
+   91556694  2026-10-07  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91553151  2026-10-07  LAMBAYEQUE  FTTH Instalacion
+   91557472  2026-10-07  LAMBAYEQUE  FTTH Instalacion
+   91551870  2026-10-07  PIURA  FTTH Mantenimiento
+   91554610  2026-10-07  PIURA  HFC Mantenimiento
+   91530326  2026-10-07  PIURA  FTTH Traslado Externo
+   91566347  2026-10-08  ANCASH  FTTH Instalacion
+   91532578  2026-10-08  ANCASH  FTTH Traslado Externo
+   91546111  2026-10-08  ANCASH  FTTH Instalacion
+   91577832  2026-10-08  ANCASH  FTTH Instalacion
+   91499357  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91574076  2026-10-08  ANCASH  FTTH Instalacion
+   91580281  2026-10-08  ANCASH  HFC Instalación
+   91565031  2026-10-08  ANCASH  HFC Instalación
+   91562403  2026-10-08  ANCASH  FTTH Instalacion
+   91576629  2026-10-08  ANCASH  FTTH Mantenimiento
+   91534251  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91532112  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91574644  2026-10-08  ANCASH  FTTH Instalacion
+   91559869  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91560334  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91566216  2026-10-08  ANCASH  FTTH Instalacion
+   91580887  2026-10-08  ANCASH  FTTH Instalacion
+   91555734  2026-10-08  ANCASH  FTTH Instalacion
+   91579782  2026-10-08  ANCASH  HFC Instalación
+   91528451  2026-10-08  ANCASH  FTTH Instalacion
+   91537287  2026-10-08  ANCASH  FTTH Instalacion
+   91579872  2026-10-08  ANCASH  HFC Instalación
+   91565461  2026-10-08  ANCASH  FTTH Instalacion
+   91561940  2026-10-08  ANCASH  FTTH Instalacion
+   91575757  2026-10-08  ANCASH  FTTH Instalacion
+   91564155  2026-10-08  ANCASH  FTTH Instalacion
+   91563276  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91579152  2026-10-08  ANCASH  FTTH Traslado Externo
+   91565998  2026-10-08  ANCASH  FTTH Instalacion
+   91563993  2026-10-08  ANCASH  FTTH Instalacion
+   91578171  2026-10-08  ANCASH  FTTH Instalacion
+   91557373  2026-10-08  ANCASH  HFC Mantenimiento
+   91574486  2026-10-08  ANCASH  FTTH Mantenimiento
+   91559835  2026-10-08  ANCASH  FTTH Mantenimiento
+   91299761  2026-10-08  ANCASH  FTTH - MANTENIMIENTO
+   91554896  2026-10-08  ANCASH  FTTH Mantenimiento
+   91562741  2026-10-08  ANCASH  HFC Mantenimiento
+   91557623  2026-10-08  ANCASH  FTTH Mantenimiento
+   91571282  2026-10-08  ANCASH  FTTH Mantenimiento
+   91565529  2026-10-08  ANCASH  HFC Mantenimiento
+   91564087  2026-10-08  ANCASH  FTTH Mantenimiento
+   91560380  2026-10-08  ANCASH  FTTH Mantenimiento
+   91559669  2026-10-08  ANCASH  FTTH Mantenimiento
+   91574306  2026-10-08  ANCASH  FTTH Mantenimiento
+   91426541  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91558030  2026-10-08  ANCASH  FTTH Traslado Interno
+   91560242  2026-10-08  ANCASH  FTTH - PV MIGRACION HFC A FTTH
+   91560164  2026-10-08  ANCASH  FTTH Instalacion
+   91575898  2026-10-08  ANCASH  FTTH Instalacion
+   91576915  2026-10-08  ANCASH  FTTH Instalacion
+   91575309  2026-10-08  ANCASH  HFC Mantenimiento
+   91548035  2026-10-08  CAJAMARCA - CHOTA  FTTH Instalacion
+   91579549  2026-10-08  CAJAMARCA - CHOTA  FTTH Mantenimiento
+   91580149  2026-10-08  CAJAMARCA - CHOTA  FTTH Cambio de plan
+   91551135  2026-10-08  CAJAMARCA - CHOTA  FTTH Mantenimiento
+   91574403  2026-10-08  CAJAMARCA - CHOTA  FTTH Instalacion
+   91573772  2026-10-08  CAJAMARCA - CHOTA  FTTH Mantenimiento
+Instalación/postventa: 52 | mantenimiento: 28 | 'Fuera de TOA': 0
 SGA está al frente.
 Control de Tareas ya estaba abierto.
-OK: 29 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+OK: 52 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91501840
-     2. 91533084
-     3. 91536713
-     4. 91533208
-     5. 91533738
-     6. 91530974
-     7. 91542872
-     8. 91541659
-     9. 91551868
-    10. 91551249
-    11. 91547333
-    12. 91544856
-    13. 91451224
-    14. 91536951
-    15. 91551477
-    16. 91509853
-    17. 91539767
-    18. 91494672
-    19. 91504726
-    20. 91505276
-    21. 91551421
-    22. 91501417
-    23. 91462442
-    24. 91552312
-    25. 91499179
-    26. 91537775
-    27. 91537330
-    28. 91545775
-    29. 91534296
+     2. 91541055
+     3. 91560283
+     4. 91534527
+     5. 91556202
+     6. 91559111
+     7. 91234380
+     8. 91551906
+     9. 91542948
+    10. 91556694
+    11. 91553151
+    12. 91557472
+    13. 91530326
+    14. 91566347
+    15. 91532578
+    16. 91546111
+    17. 91577832
+    18. 91499357
+    19. 91574076
+    20. 91580281
+    21. 91565031
+    22. 91562403
+    23. 91534251
+    24. 91532112
+    25. 91574644
+    26. 91559869
+    27. 91560334
+    28. 91566216
+    29. 91580887
+    30. 91555734
+    31. 91579782
+    32. 91528451
+    33. 91537287
+    34. 91579872
+    35. 91565461
+    36. 91561940
+    37. 91575757
+    38. 91564155
+    39. 91563276
+    40. 91579152
+    41. 91565998
+    42. 91563993
+    43. 91578171
+    44. 91426541
+    45. 91558030
+    46. 91560242
+    47. 91560164
+    48. 91575898
+    49. 91576915
+    50. 91548035
+    51. 91580149
+    52. 91574403
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -99,131 +157,164 @@ Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-28 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 28 de 29
-     1. 91533084  |  FTTH/SIAC - CAMBIO DE PLAN
-     2. 91536713  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     3. 91533208  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     4. 91533738  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     5. 91530974  |  FTTH/SIAC - CAMBIO DE PLAN
-     6. 91542872  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     7. 91541659  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     8. 91551868  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     9. 91551249  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-    10. 91547333  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    11. 91544856  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    12. 91451224  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    13. 91536951  |  FTTH/SIAC - CAMBIO DE PLAN
-    14. 91551477  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-    15. 91509853  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    16. 91539767  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    17. 91494672  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-    18. 91504726  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    19. 91505276  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    20. 91551421  |  FTTH/SIAC - CAMBIO DE PLAN
-    21. 91501417  |  FTTH/SIAC - ACCESORIO ADICIONAL
-    22. 91462442  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    23. 91552312  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    24. 91499179  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    25. 91537775  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    26. 91537330  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    27. 91545775  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    28. 91534296  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
+50 filas copiadas de Control de Tareas.
+SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 50 de 52
+     1. 91541055  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     2. 91560283  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     3. 91534527  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+     4. 91556202  |  "#RETENCIÓN# 
+Customer ID:
+     5. 91559111  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     6. 91234380  |  HFC - WA ENTREGA MESH
+     7. 91551906  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     8. 91556694  |  "#RETENCIÓN# 
+Customer ID:
+     9. 91553151  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    10. 91557472  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    11. 91530326  |  FTTH/SIAC - TRASLADO EXTERNO
+    12. 91566347  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    13. 91532578  |  FTTH/SIAC - TRASLADO EXTERNO
+    14. 91546111  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    15. 91577832  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    16. 91499357  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    17. 91574076  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    18. 91580281  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    19. 91565031  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    20. 91562403  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    21. 91534251  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    22. 91532112  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    23. 91574644  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    24. 91559869  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    25. 91560334  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    26. 91566216  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    27. 91580887  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    28. 91555734  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    29. 91579782  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    30. 91528451  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    31. 91537287  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    32. 91579872  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    33. 91565461  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    34. 91561940  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    35. 91575757  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    36. 91564155  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    37. 91563276  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    38. 91579152  |  FTTH/SIAC - TRASLADO EXTERNO
+    39. 91565998  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    40. 91563993  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    41. 91578171  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    42. 91426541  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    43. 91558030  |  FTTH/SIAC - TRASLADO INTERNO
+    44. 91560242  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    45. 91560164  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    46. 91575898  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    47. 91576915  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    48. 91548035  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    49. 91580149  |  FTTH/SIAC - CAMBIO DE PLAN
+    50. 91574403  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
 Clic en la pestaña 'Detalle Servicios': x=368, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 28 filas...
-91536713 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
-91542872 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91509853 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91551868 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91551421 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Recorriendo 50 filas...
+91580281 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91565031 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91579782 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91579872 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91580149 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
 Opción de menú elegida: Reportes -> Consulta Historica de Clientes
 Consulta Histórica abierta.
-Buscando la SOT 91551421 en Consulta Histórica...
+Buscando la SOT 91580149 en Consulta Histórica...
 Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
 SGA está ocupado; esperando...
-   91551421: SOT anterior = 90470810 (FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH, 31/08/2026)
+   91580149: SOT anterior = 85752110 (FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 18/03/2026)
    -> PAQUETE: RETIRO 1 MESH
-91530974 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
-Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91530974 en Consulta Histórica...
-Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-SGA está ocupado; esperando...
-   91530974: SOT anterior = 84864763 (FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 09/02/2026)
-   -> PAQUETE: RETIRO 2 DECOS
-91536951 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
-Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91536951 en Consulta Histórica...
-Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-   91536951: SOT anterior = 88810919 (FTTH/SIAC - CAMBIO DE PLAN, 02/07/2026)
-   -> PAQUETE: INSTALACION MESH
-91501417 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
-91494672 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
-91551477 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-   ... fila 10 de 28
-91551249 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91499179 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91552312 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91462442 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91533738 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91504726 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91505276 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91537330 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91537775 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91539767 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-   ... fila 20 de 28
-91544856 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
-91541659 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91533208 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
-91451224 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91545775 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91547333 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91534296 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91533084 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
-Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91533084 en Consulta Histórica...
-Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-SGA está ocupado; esperando...
-   91533084: SOT anterior = 83991959 (FTTH/SIAC - CAMBIO DE PLAN, 07/01/2026)
-SGA está ocupado; esperando...
-   La SOT anterior es igual; uso la observación: 'DOWNGRADE: Full Claro FTTH 200 Mbps - A - FTTH Internet 300 Mbps  RETIRAR: 2 ENRUTADOR
-SN:1791305476-542052
-NOMBRE:VICTOR
-NUMERO TELEFONO:944443495
-DNI/CE/RUC: 16753334
-CONSULTA: CLIENTE DESEA EL CAMBIO DEL PLAN 
- - TLF. REF.:944443495.'
-   -> PAQUETE: RETIRO 2 MESH + TLF
+91579152 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 1 PLAY MB
+91530326 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 1 PLAY MB
+91532578 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 2 PLAY MB + TLF + MESH
+91558030 | FTTH/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
+91559869 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+   ... fila 10 de 50
+91560242 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+91426541 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91499357 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 3 DECOS
+91534251 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB + MESH
+91534527 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91532112 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91560334 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 3 PLAY MB + TLF + 3 DECOS
+91563276 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91234380 | HFC - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION 2 MESH
+      - Bono de Velocidad 1000 Mbps  x 1
+      - Bono de Velocidad 1000 Mbps  x 1
+91556202 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+   ... fila 20 de 50
+91551906 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91565998 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91557472 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91574403 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91565461 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91561940 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91574644 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 1 DECO
+91560164 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91566216 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
+91576915 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 30 de 50
+91578171 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91574076 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91528451 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91555734 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91559111 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91560283 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91564155 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91580887 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91562403 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91563993 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 40 de 50
+91575898 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
+91541055 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91553151 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91548035 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91546111 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91566347 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91577832 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91537287 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 3 DECOS + MESH
+91556694 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91575757 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
+   ... fila 50 de 50
 
-MANTENIMIENTOS: 14 SOTs -> CONTRATISTA MANTO HFC
-OK: 14 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91539871
-     5. 91546856
-     6. 91531850
-     7. 91527411
-     8. 91545425
-     9. 91531671
-    10. 91537934
-    11. 91530360
-    12. 91536571
-    13. 91527830
-    14. 91554706
+MANTENIMIENTOS: 28 SOTs -> CONTRATISTA MANTO HFC
+OK: 28 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+     1. 91492619
+     2. 91493781
+     3. 91542289
+     4. 91529656
+     5. 91542664
+     6. 91525094
+     7. 91542221
+     8. 91508381
+     9. 91551870
+    10. 91554610
+    11. 91576629
+    12. 91557373
+    13. 91574486
+    14. 91559835
+    15. 91299761
+    16. 91554896
+    17. 91562741
+    18. 91557623
+    19. 91571282
+    20. 91565529
+    21. 91564087
+    22. 91560380
+    23. 91559669
+    24. 91574306
+    25. 91575309
+    26. 91579549
+    27. 91551135
+    28. 91573772
 Doble clic en CONTRATISTA MANTO HFC
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
@@ -243,626 +334,246 @@ Lista de vuelta arriba.
 Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-11 filas copiadas de Control de Tareas.
+23 filas copiadas de Control de Tareas.
 Clic en la pestaña 'Agendamiento': x=474, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 11 filas de mantenimiento...
-91554706 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
-91527830 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de cables internos UTP/STP' = PC17 - SIN SERVICIO
-91536571 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91537934 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
-91531671 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
-91531850 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
-91545425 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion de aplicaciones en deco IPTV' = FI14 - SIN SERVICIO
-91530360 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
-91527411 | FTTH - MANTENIMIENTO  ->  SIN PAQUETE: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-91539871 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
-   ... fila 10 de 11
-91546856 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio conector optico' = PC18 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91533084: llenada - RETIRO 2 MESH + TLF (fuera de la lista)
-   91542664: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91536713: llenada - 2 PLAY MB + TLF
-   91539871: llenada - PC03 - SIN SERVICIO
-   91533208: llenada - 2 PLAY MB + TLF
-   91533738: llenada - 1 PLAY MB + MESH
-   91530974: llenada - RETIRO 2 DECOS
-   91542872: llenada - 1 PLAY MB
-   91541659: llenada - 2 PLAY MB + 2 DECOS
-   91546856: llenada - PC18 - SIN SERVICIO
-   91551868: llenada - 1 PLAY MB
-   91551249: llenada - 2 PLAY MB + 2 DECOS
-   91547333: llenada - 1 PLAY MB + MESH
-   91544856: llenada - 2 PLAY MB + 2 DECOS + MESH
-   91451224: llenada - 2 PLAY MB + 2 DECOS
-   91536951: llenada - INSTALACION MESH
-   91551477: llenada - 2 PLAY MB + 2 DECOS
-   91531850: llenada - EQ06 - SIN SERVICIO
-   91527411: reintentar - FTTH - MANTENIMIENTO: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-   91545425: llenada - FI14 - SIN SERVICIO
-   91509853: llenada - 1 PLAY MB
-   91531671: llenada - EQ06 - SIN SERVICIO
-   91539767: llenada - 1 PLAY MB + MESH
-   91537934: llenada - EQ05 - SIN SERVICIO
-   91494672: llenada - 1 PLAY MB
-   91530360: llenada - EQ06 - SIN SERVICIO
-   91504726: llenada - 1 PLAY MB
-   91505276: llenada - 1 PLAY MB
-   91551421: llenada - RETIRO 1 MESH
-   91501417: llenada - INSTALACION MESH
-   91536571: llenada - PC02 - SIN SERVICIO
-   91462442: llenada - 1 PLAY MB
-   91552312: llenada - 1 PLAY MB
-   91527830: llenada - PC17 - SIN SERVICIO
-   91554706: llenada - FI12 - SIN SERVICIO
-   91499179: llenada - 2 PLAY MB + 2 DECOS
-   91537775: llenada - 1 PLAY MB
-   91537330: llenada - 1 PLAY MB + MESH
-   91545775: llenada - 2 PLAY MB + 2 DECOS
-   91534296: llenada - 1 PLAY MB
-Vuelta terminada: 38 llenadas, 5 sin paquete
-
-======== VUELTA 13:30:54: 4 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-Instalación/postventa: 1 | mantenimiento: 3 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 3 SOTs -> CONTRATISTA MANTO HFC
-OK: 3 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-No hay SOTs de mantenimiento en la lista; nada que recorrer.
-   91542289: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 0 llenadas, 4 sin paquete
-
-======== VUELTA 13:45:54: 5 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91527411  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-Instalación/postventa: 1 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91527411
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91527411 | FTTH - MANTENIMIENTO  ->  SIN PAQUETE: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91527411: reintentar - FTTH - MANTENIMIENTO: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-Vuelta terminada: 0 llenadas, 5 sin paquete
-
-======== VUELTA 14:00:54: 4 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-Instalación/postventa: 1 | mantenimiento: 3 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 3 SOTs -> CONTRATISTA MANTO HFC
-OK: 3 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-No hay SOTs de mantenimiento en la lista; nada que recorrer.
+Recorriendo 23 filas de mantenimiento...
+91493781 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91492619 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91564087 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91554610 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91557373 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91562741 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91565529 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA por Cambio de tecnología / Fidelización' = EQ04 - SIN SERVICIO
+91574306 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91551135 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91573772 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+   ... fila 10 de 23
+91554896 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91576629 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
+91574486 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91525094 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
+91560380 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91571282 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91299761 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91557623 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91559835 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91551870 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+   ... fila 20 de 23
+91542221 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91579549 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' = AB02 - SIN SERVICIO
+91508381 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664, 91559669, 91575309
+   91492619: llenada - PC02 - SIN SERVICIO
+   91493781: llenada - PC02 - SIN SERVICIO
    91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 0 llenadas, 4 sin paquete
+   91541055: llenada - 1 PLAY MB
+   91525094: llenada - PC03 - SIN SERVICIO
+   91560283: llenada - 2 PLAY MB + 2 DECOS
+   91534527: llenada - 2 PLAY MB + 2 DECOS
+   91556202: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91559111: llenada - 1 PLAY MB + MESH
+   91542221: llenada - PC02 - SIN SERVICIO
+   91234380: llenada - INSTALACION 2 MESH
+   91551906: llenada - 1 PLAY MB
+   91508381: llenada - PC02 - SIN SERVICIO
+   91542948: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556694: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91553151: llenada - 1 PLAY MB
+   91557472: llenada - 1 PLAY MB
+   91551870: llenada - TE11 - SIN SERVICIO
+   91554610: llenada - EQ06 - SIN SERVICIO
+   91530326: llenada - 1 PLAY MB
+   91566347: llenada - 1 PLAY MB
+   91532578: llenada - 2 PLAY MB + TLF + MESH
+   91546111: llenada - 1 PLAY MB
+   91577832: llenada - 1 PLAY MB + MESH
+   91499357: llenada - 2 PLAY MB + 3 DECOS
+   91574076: llenada - 2 PLAY MB + 2 DECOS
+   91580281: llenada - 1 PLAY MB
+   91565031: llenada - 1 PLAY MB
+   91562403: llenada - 1 PLAY MB + MESH
+   91576629: llenada - PC03 - SIN SERVICIO
+   91534251: llenada - 1 PLAY MB + MESH
+   91532112: llenada - 1 PLAY MB
+   91574644: llenada - 2 PLAY MB + 1 DECO
+   91559869: llenada - 2 PLAY MB + TLF
+   91560334: llenada - 3 PLAY MB + TLF + 3 DECOS
+   91566216: llenada - 2 PLAY MB + TLF
+   91580887: llenada - 2 PLAY MB + 2 DECOS
+   91555734: llenada - 1 PLAY MB + MESH
+   91579782: llenada - 1 PLAY MB
+   91528451: llenada - 1 PLAY MB + MESH
+   91537287: llenada - 2 PLAY MB + 3 DECOS + MESH
+   91579872: llenada - 1 PLAY MB
+   91565461: llenada - 1 PLAY MB
+   91561940: llenada - 1 PLAY MB
+   91575757: llenada - 2 PLAY MB + 2 DECOS + MESH
+   91564155: llenada - 1 PLAY MB + MESH
+   91563276: llenada - 1 PLAY MB
+   91579152: llenada - 1 PLAY MB
+   91565998: llenada - 2 PLAY MB + 2 DECOS
+   91563993: llenada - 1 PLAY MB
+   91578171: llenada - 1 PLAY MB + MESH
+   91557373: llenada - EQ05 - SIN SERVICIO
+   91574486: llenada - EQ06 - SIN SERVICIO
+   91559835: llenada - EQ06 - SIN SERVICIO
+   91299761: llenada - MO03 - SIN SERVICIO
+   91554896: llenada - FI12 - SIN SERVICIO
+   91562741: llenada - EQ05 - SIN SERVICIO
+   91557623: llenada - FI12 - SIN SERVICIO
+   91571282: llenada - TE11 - SIN SERVICIO
+   91565529: llenada - EQ04 - SIN SERVICIO
+   91564087: llenada - MO03 - SIN SERVICIO
+   91560380: llenada - MO03 - SIN SERVICIO
+   91559669: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91574306: llenada - TE11 - SIN SERVICIO
+   91426541: llenada - 1 PLAY MB
+   91558030: llenada - TRASLADO INTERNO
+   91560242: llenada - 2 PLAY MB + TLF
+   91560164: llenada - 1 PLAY MB + MESH
+   91575898: llenada - 2 PLAY MB + TLF
+   91576915: llenada - 1 PLAY MB
+   91575309: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91548035: llenada - 1 PLAY MB
+   91579549: llenada - AB02 - SIN SERVICIO
+   91580149: llenada - RETIRO 1 MESH
+   91551135: llenada - PC02 - SIN SERVICIO
+   91574403: llenada - 1 PLAY MB + MESH
+   91573772: llenada - MO03 - SIN SERVICIO
+Vuelta terminada: 71 llenadas, 9 sin paquete
 
-======== VUELTA 14:15:54: 5 SOTs ATENDIDAS sin paquete ========
+======== VUELTA 10:27:16: 80 SOTs ATENDIDAS sin paquete ========
    91542289  2026-10-06  ANCASH  FTTH Mantenimiento
    91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
    91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
    91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91527411  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-Instalación/postventa: 1 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91527411
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91527411 | FTTH - MANTENIMIENTO  ->  SIN PAQUETE: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91527411: reintentar - FTTH - MANTENIMIENTO: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-Vuelta terminada: 0 llenadas, 5 sin paquete
-
-======== VUELTA 14:30:54: 4 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-Instalación/postventa: 1 | mantenimiento: 3 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 3 SOTs -> CONTRATISTA MANTO HFC
-OK: 3 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-No hay SOTs de mantenimiento en la lista; nada que recorrer.
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 0 llenadas, 4 sin paquete
-
-======== VUELTA 14:45:54: 5 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91527411  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-Instalación/postventa: 1 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91527411
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91527411 | FTTH - MANTENIMIENTO  ->  SIN PAQUETE: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91527411: reintentar - FTTH - MANTENIMIENTO: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-Vuelta terminada: 0 llenadas, 5 sin paquete
-
-======== VUELTA 15:00:54: 4 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-Instalación/postventa: 1 | mantenimiento: 3 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 1 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 1
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 3 SOTs -> CONTRATISTA MANTO HFC
-OK: 3 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-No hay SOTs de mantenimiento en la lista; nada que recorrer.
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 0 llenadas, 4 sin paquete
-
-======== VUELTA 15:15:54: 59 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91543081  2026-10-07  ANCASH  FTTH Mantenimiento
-   91543788  2026-10-07  ANCASH  FTTH Instalacion
-   91554285  2026-10-07  ANCASH  FTTH Mantenimiento
-   91544210  2026-10-07  ANCASH  FTTH Instalacion
-   91501911  2026-10-07  ANCASH  FTTH Instalacion
-   91529541  2026-10-07  ANCASH  FTTH Instalacion
-   91553985  2026-10-07  ANCASH  FTTH Mantenimiento
-   91556561  2026-10-07  ANCASH  FTTH Mantenimiento
-   91552401  2026-10-07  ANCASH  FTTH - PV MIGRACION HFC A FTTH
-   91542207  2026-10-07  ANCASH  FTTH Instalacion
-   91531917  2026-10-07  CAJAMARCA - CHOTA  FTTH - PV ALTA ACCESORIO ADICIONAL
-   91557306  2026-10-07  CAJAMARCA - CHOTA  FTTH Mantenimiento
-   91540007  2026-10-07  CAJAMARCA - CHOTA  FTTH Instalacion
-   91546509  2026-10-07  CAJAMARCA - JAEN  FTTH Instalacion
-   91529424  2026-10-07  CAJAMARCA - JAEN  FTTH Instalacion
-   91531389  2026-10-07  LA LIBERTAD - WITLINK  HFC - MANTENIMIENTO
-   91553978  2026-10-07  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
-   91530985  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-   91527411  2026-10-07  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
-   91554100  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91551034  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91502369  2026-10-07  LA LIBERTAD - WITLINK  HFC Instalación
-   91551679  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91542728  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91544304  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91546158  2026-10-07  LA LIBERTAD - WITLINK  FTTH Cambio de plan
-   91507119  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91554948  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91546337  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91530869  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91555978  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91553423  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91536451  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91537949  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91490853  2026-10-07  LAMBAYEQUE  FTTH - MANTENIMIENTO
+   91556202  2026-10-07  ANCASH  FTTH WA ENTREGA REPETIDOR MESH
    91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
-   91543074  2026-10-07  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
-   91529879  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91540738  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91497703  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91542130  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91494145  2026-10-07  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
-   91536210  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91551533  2026-10-07  LAMBAYEQUE  FTTH Cambio de plan
-   91545506  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91552045  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91556494  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91554323  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91551510  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91504591  2026-10-07  PIURA  FTTH Instalacion
-   91551690  2026-10-07  PIURA  HFC Instalación
-   91542937  2026-10-07  PIURA  FTTH Mantenimiento
-   91551530  2026-10-07  PIURA  HFC Mantenimiento
-   91542205  2026-10-07  PIURA  FTTH Cambio de plan
-   91552808  2026-10-07  PIURA  FTTH Mantenimiento
-Instalación/postventa: 35 | mantenimiento: 24 | 'Fuera de TOA': 0
+   91556694  2026-10-07  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91559669  2026-10-08  ANCASH  FTTH Mantenimiento
+   91575309  2026-10-08  ANCASH  HFC Mantenimiento
+   91564789  2026-10-08  CAJAMARCA - CHOTA  FTTH Instalacion
+   91574243  2026-10-08  CAJAMARCA - CHOTA  FTTH Mantenimiento
+   91560709  2026-10-08  CAJAMARCA - CHOTA  FTTH Instalacion
+   91564909  2026-10-08  CAJAMARCA - CHOTA  FTTH Mantenimiento
+   91561378  2026-10-08  CAJAMARCA - JAEN  FTTH WA ENTREGA REPETIDOR MESH
+   91565760  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91564810  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91575342  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91561396  2026-10-08  CAJAMARCA - JAEN  FTTH Instalacion
+   91578631  2026-10-08  CAJAMARCA - JAEN  FTTH Instalacion
+   91575265  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91547761  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91509480  2026-10-08  CAJAMARCA - JAEN  FTTH Instalacion
+   91539333  2026-10-08  CAJAMARCA - JAEN  FTTH Mantenimiento
+   91536469  2026-10-08  CAJAMARCA - JAEN  FTTH Instalacion
+   91540961  2026-10-08  CAJAMARCA - JAEN  FTTH Instalacion
+   91566483  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91566082  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91554205  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91556811  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91560081  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91561444  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91560390  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91559378  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91555142  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91561672  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91554963  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91559337  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91560661  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91553271  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91562416  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91545747  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91557947  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91575769  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91534043  2026-10-08  LA LIBERTAD - WITLINK  Fuera de TOA
+   91458652  2026-10-08  LA LIBERTAD - WITLINK  HFC/SIAC - CAMBIO DE PLAN
+   91564765  2026-10-08  LA LIBERTAD - WITLINK  HFC Cambio de equipo
+   91554142  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91560979  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91543352  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91530196  2026-10-08  LA LIBERTAD - WITLINK  FTTH - MANTENIMIENTO
+   91574022  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91559039  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91493356  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91535703  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91297749  2026-10-08  LA LIBERTAD - WITLINK  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+   91560051  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91541484  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91557977  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91563696  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91580385  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91565489  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91559309  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91575490  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91573924  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91559599  2026-10-08  LA LIBERTAD - WITLINK  HFC Instalación
+   91564371  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91576117  2026-10-08  LA LIBERTAD - WITLINK  FTTH Traslado Externo
+   91507355  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91561092  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91538549  2026-10-08  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
+   91560433  2026-10-08  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91492109  2026-10-08  LA LIBERTAD - WITLINK  FTTH Cambio de plan
+   91574260  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91574391  2026-10-08  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91532496  2026-10-08  LA LIBERTAD - WITLINK  HFC Cambio de Plan
+   91562237  2026-10-08  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91563539  2026-10-08  LA LIBERTAD - WITLINK  HFC Instalación
+   91565527  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91575324  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91577408  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+Instalación/postventa: 43 | mantenimiento: 37 | 'Fuera de TOA': 1
 SGA está al frente.
 Control de Tareas ya estaba abierto.
-OK: 35 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+OK: 43 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91501840
-     2. 91543788
-     3. 91544210
-     4. 91501911
-     5. 91529541
-     6. 91552401
-     7. 91542207
-     8. 91531917
-     9. 91540007
-    10. 91546509
-    11. 91529424
-    12. 91553978
-    13. 91502369
-    14. 91551679
-    15. 91542728
-    16. 91544304
-    17. 91546158
-    18. 91507119
-    19. 91546337
-    20. 91530869
-    21. 91536451
-    22. 91537949
-    23. 91542948
-    24. 91543074
-    25. 91529879
-    26. 91540738
-    27. 91497703
-    28. 91542130
-    29. 91494145
-    30. 91536210
-    31. 91551533
-    32. 91551510
-    33. 91504591
-    34. 91551690
-    35. 91542205
+     2. 91556202
+     3. 91542948
+     4. 91556694
+     5. 91564789
+     6. 91560709
+     7. 91561378
+     8. 91561396
+     9. 91578631
+    10. 91509480
+    11. 91536469
+    12. 91540961
+    13. 91566483
+    14. 91566082
+    15. 91561444
+    16. 91560390
+    17. 91559378
+    18. 91560661
+    19. 91553271
+    20. 91562416
+    21. 91545747
+    22. 91557947
+    23. 91575769
+    24. 91534043
+    25. 91458652
+    26. 91564765
+    27. 91493356
+    28. 91535703
+    29. 91297749
+    30. 91560051
+    31. 91559309
+    32. 91575490
+    33. 91573924
+    34. 91559599
+    35. 91564371
+    36. 91576117
+    37. 91507355
+    38. 91561092
+    39. 91538549
+    40. 91492109
+    41. 91532496
+    42. 91562237
+    43. 91563539
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -882,133 +593,164 @@ Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-33 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 33 de 35
-     1. 91543788  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     2. 91544210  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     3. 91501911  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     4. 91529541  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     5. 91552401  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-     6. 91542207  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     7. 91531917  |  FTTH/SIAC - ACCESORIO ADICIONAL
-     8. 91540007  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     9. 91546509  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    10. 91529424  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    11. 91553978  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-    12. 91502369  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    13. 91551679  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    14. 91542728  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    15. 91544304  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    16. 91546158  |  FTTH/SIAC - CAMBIO DE PLAN
-    17. 91507119  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    18. 91546337  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    19. 91530869  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    20. 91536451  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    21. 91537949  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    22. 91543074  |  FTTH - WA ENTREGA MESH
-    23. 91529879  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    24. 91540738  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    25. 91497703  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    26. 91542130  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    27. 91494145  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-    28. 91536210  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    29. 91551533  |  FTTH/SIAC - CAMBIO DE PLAN
-    30. 91551510  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    31. 91504591  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    32. 91551690  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-    33. 91542205  |  FTTH/SIAC - CAMBIO DE PLAN
-AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
+39 filas copiadas de Control de Tareas.
+SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 39 de 43
+     1. 91556202  |  "#RETENCIÓN# 
+Customer ID:
+     2. 91556694  |  "#RETENCIÓN# 
+Customer ID:
+     3. 91564789  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     4. 91560709  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     5. 91561378  |  "#RETENCIÓN# 
+Customer ID:
+     6. 91561396  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     7. 91578631  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     8. 91509480  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     9. 91536469  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    10. 91540961  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    11. 91566483  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    12. 91566082  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    13. 91561444  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    14. 91560390  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    15. 91559378  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    16. 91560661  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    17. 91553271  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    18. 91562416  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    19. 91545747  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    20. 91557947  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    21. 91575769  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    22. 91458652  |  HFC/SIAC - CAMBIO DE PLAN
+    23. 91564765  |  HFC/SIAC - CAMBIO DE EQUIPO
+    24. 91493356  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    25. 91535703  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    26. 91560051  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    27. 91559309  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    28. 91575490  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    29. 91573924  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    30. 91559599  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    31. 91564371  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    32. 91576117  |  FTTH/SIAC - TRASLADO EXTERNO
+    33. 91507355  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    34. 91561092  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    35. 91538549  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    36. 91492109  |  FTTH/SIAC - CAMBIO DE PLAN
+    37. 91532496  |  HFC/SIAC - CAMBIO DE PLAN
+    38. 91562237  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    39. 91563539  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+AVISO: 4 SOTs no aparecen en Control de Tareas: 91501840, 91542948, 91534043, 91297749
 Clic en la pestaña 'Detalle Servicios': x=368, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 33 filas...
-91551690 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91502369 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91546158 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Recorriendo 39 filas...
+91458652 | HFC/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
 Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91546158 en Consulta Histórica...
+Buscando la SOT 91458652 en Consulta Histórica...
 Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-   91546158: SOT anterior = 76619702 (FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH, 24/02/2025)
-   -> PAQUETE: INSTALACION 3 DECOS + MESH
-91542205 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+   91458652: SOT anterior = 63130463 (HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 18/06/2023)
+   -> PAQUETE: RETIRO 3 DECOS
+91532496 | HFC/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
 Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91542205 en Consulta Histórica...
+Buscando la SOT 91532496 en Consulta Histórica...
 Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-   91542205: SOT anterior = 83870814 (FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH, 03/01/2026)
+   91532496: SOT anterior = 81056116 (HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 29/08/2025)
+   -> PAQUETE: RETIRO 1 DECO
+91564765 | HFC/SIAC - CAMBIO DE EQUIPO  ->  PAQUETE FIJO: CAMBIO DE EQUIPO
+91559599 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91563539 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91492109 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Clic en la pestaña 'Buscar': x=43, y=99
+Buscando la SOT 91492109 en Consulta Histórica...
+Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
+   91492109: SOT anterior = 79489897 (FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH, 20/06/2025)
    -> PAQUETE: INSTALACION MESH
-91551533 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
-Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91551533 en Consulta Histórica...
-Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
-   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-   91551533: SOT anterior = 84535740 (FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH, 28/01/2026)
-   -> PAQUETE: RETIRO 2 DECOS
-91531917 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
-91553978 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB + MESH
-91494145 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
-91552401 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 3 DECOS
-91543074 | FTTH - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION MESH
-      - Bono de Velocidad 1000 Mbps  x 1
-   ... fila 10 de 33
-91504591 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91497703 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91529879 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91536451 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91546337 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91537949 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91542130 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91530869 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91540738 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91544304 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
-   ... fila 20 de 33
-91551679 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91507119 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91542728 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91543788 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
-91544210 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91542207 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
-91501911 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91546509 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91529541 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF + MESH
-91536210 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-   ... fila 30 de 33
-91551510 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91540007 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
-91529424 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91576117 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 3 PLAY MB + TLF + 2 DECOS
+91493356 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+91507355 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
+91560051 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+   ... fila 10 de 39
+91561444 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB + MESH
+91535703 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91538549 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91559378 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB + MESH
+91560390 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
+91556202 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91561378 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91557947 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91562237 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91575490 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 3 PLAY MB + TLF + 2 DECOS + MESH
+   ... fila 20 de 39
+91564789 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
+91553271 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91561092 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91562416 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91566082 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 3 DECOS + MESH
+91566483 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF + MESH
+91575769 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91560661 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91573924 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
+91578631 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+   ... fila 30 de 39
+91561396 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91545747 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 3 PLAY MB + TLF + 2 DECOS + MESH
+91560709 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91509480 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91536469 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91540961 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91564371 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91559309 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 3 DECOS + MESH
+91556694 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
 
-MANTENIMIENTOS: 24 SOTs -> CONTRATISTA MANTO HFC
-OK: 24 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+MANTENIMIENTOS: 38 SOTs -> CONTRATISTA MANTO HFC
+OK: 38 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91542289
      2. 91529656
      3. 91542664
-     4. 91543081
-     5. 91554285
-     6. 91553985
-     7. 91556561
-     8. 91557306
-     9. 91531389
-    10. 91530985
-    11. 91527411
-    12. 91554100
-    13. 91551034
-    14. 91554948
-    15. 91555978
-    16. 91553423
-    17. 91490853
-    18. 91545506
-    19. 91552045
-    20. 91556494
-    21. 91554323
-    22. 91542937
-    23. 91551530
-    24. 91552808
+     4. 91559669
+     5. 91575309
+     6. 91574243
+     7. 91564909
+     8. 91565760
+     9. 91564810
+    10. 91575342
+    11. 91575265
+    12. 91547761
+    13. 91539333
+    14. 91554205
+    15. 91556811
+    16. 91560081
+    17. 91555142
+    18. 91561672
+    19. 91554963
+    20. 91559337
+    21. 91554142
+    22. 91560979
+    23. 91543352
+    24. 91530196
+    25. 91574022
+    26. 91559039
+    27. 91541484
+    28. 91557977
+    29. 91563696
+    30. 91580385
+    31. 91565489
+    32. 91560433
+    33. 91574260
+    34. 91574391
+    35. 91565527
+    36. 91575324
+    37. 91577408
+    38. 91534043
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -1027,201 +769,268 @@ Lista de vuelta arriba.
 Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-21 filas copiadas de Control de Tareas.
+32 filas copiadas de Control de Tareas.
 Clic en la pestaña 'Agendamiento': x=474, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 21 filas de mantenimiento...
-91554100 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA  Cambio por tecnología / Fidelización - NEGOCIO + IP FIJA' = EQ13 - SIN SERVICIO
-91551034 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA  Cambio por tecnología / Fidelización - NEGOCIO + IP FIJA' = EQ13 - SIN SERVICIO
-91531389 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
-91551530 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA por Cambio de tecnología / Fidelización' = EQ04 - SIN SERVICIO
-91554948 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91552045 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'TELEFONO problema del equipo' = EQ11 - SIN SERVICIO
-91545506 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91556494 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-91555978 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Envio de comandos/reactivacion de servicios-TV' = FI11 - SIN SERVICIO
-91527411 | FTTH - MANTENIMIENTO  ->  SIN PAQUETE: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-   ... fila 10 de 21
-91530985 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-91557306 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91553985 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de Fuente equipo terminal' = PC05 - SIN SERVICIO
-91554285 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de Fuente equipo terminal' = PC05 - SIN SERVICIO
-91556561 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida desconectada' = TE10 - SIN SERVICIO
-91543081 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91552808 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-91542937 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-91553423 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Reactivacion de servicios Internet y/o telefonia' = FI10 - SIN SERVICIO
-91554323 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio conector optico' = PC18 - SIN SERVICIO
-   ... fila 20 de 21
-91490853 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de cables internos UTP/STP' = PC17 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
+Recorriendo 32 filas de mantenimiento...
+91574260 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91574022 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91554205 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + cambio de Cable interno' = EQ07 - SIN SERVICIO
+91556811 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91557977 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91560433 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91565489 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA por Cambio de tecnología / Fidelización' = EQ04 - SIN SERVICIO
+91554963 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91561672 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91554142 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+   ... fila 10 de 32
+91560979 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91555142 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91543352 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91575324 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91577408 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' = AB02 - SIN SERVICIO
+91574391 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91541484 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91563696 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Reactivacion de servicios Internet y/o telefonia' = FI10 - SIN SERVICIO
+91580385 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91560081 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
+   ... fila 20 de 32
+91530196 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'STB problema del equipo' = EQ09 - SIN SERVICIO
+91574243 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91559039 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
+91559337 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91575265 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de Fuente equipo terminal' = PC05 - SIN SERVICIO
+91564810 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91565760 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio o reposición de cable JUMPER UTP' = PC15 - SIN SERVICIO
+91575342 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91565527 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91564909 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+   ... fila 30 de 32
+91547761 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91539333 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664, 91559669, 91575309, 91534043
    91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91543081: llenada - PC02 - SIN SERVICIO
-   91543788: llenada - 2 PLAY MB + 2 DECOS + MESH
-   91554285: llenada - PC05 - SIN SERVICIO
-   91544210: llenada - 2 PLAY MB + 2 DECOS
-   91501911: llenada - 1 PLAY MB
-   91529541: llenada - 2 PLAY MB + TLF + MESH
-   91553985: llenada - PC05 - SIN SERVICIO
-   91556561: llenada - TE10 - SIN SERVICIO
-   91552401: llenada - 2 PLAY MB + 3 DECOS
-   91542207: llenada - 2 PLAY MB + 2 DECOS
-   91531917: llenada - INSTALACION MESH
-   91557306: llenada - PC02 - SIN SERVICIO
-   91540007: llenada - 2 PLAY MB + 2 DECOS + MESH
-   91546509: llenada - 1 PLAY MB + MESH
-   91529424: llenada - 1 PLAY MB + MESH
-   91531389: llenada - EQ06 - SIN SERVICIO
-   91553978: llenada - 1 PLAY MB + MESH
-   91530985: llenada - MO03 - SIN SERVICIO
-   91527411: revisar - FTTH - MANTENIMIENTO: el motivo 'MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA' no está en codigos_solucion.json
-   91554100: llenada - EQ13 - SIN SERVICIO
-   91551034: llenada - EQ13 - SIN SERVICIO
-   91502369: llenada - 2 PLAY MB + 2 DECOS
-   91551679: llenada - 1 PLAY MB
-   91542728: llenada - 1 PLAY MB + MESH
-   91544304: llenada - 2 PLAY MB + 2 DECOS + MESH
-   91546158: llenada - INSTALACION 3 DECOS + MESH (fuera de la lista)
-   91507119: llenada - 1 PLAY MB
-   91554948: llenada - PC02 - SIN SERVICIO
-   91546337: llenada - 1 PLAY MB
-   91530869: llenada - 1 PLAY MB
-   91555978: llenada - FI11 - SIN SERVICIO
-   91553423: llenada - FI10 - SIN SERVICIO
-   91536451: llenada - 1 PLAY MB
-   91537949: llenada - 1 PLAY MB
-   91490853: llenada - PC17 - SIN SERVICIO
-   91542948: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91543074: llenada - INSTALACION MESH
-   91529879: llenada - 1 PLAY MB + MESH
-   91540738: llenada - 1 PLAY MB
-   91497703: llenada - 1 PLAY MB
-   91542130: llenada - 1 PLAY MB + MESH
-   91494145: llenada - 1 PLAY MB
-   91536210: llenada - 1 PLAY MB
-   91551533: llenada - RETIRO 2 DECOS
-   91545506: llenada - PC02 - SIN SERVICIO
-   91552045: llenada - EQ11 - SIN SERVICIO
-   91556494: llenada - MO03 - SIN SERVICIO
-   91554323: llenada - PC18 - SIN SERVICIO
-   91551510: llenada - 1 PLAY MB
-   91504591: llenada - 1 PLAY MB
-   91551690: llenada - 1 PLAY MB
-   91542937: llenada - MO03 - SIN SERVICIO
-   91551530: llenada - EQ04 - SIN SERVICIO
-   91542205: llenada - INSTALACION MESH
-   91552808: llenada - MO03 - SIN SERVICIO
-Vuelta terminada: 53 llenadas, 6 sin paquete
+   91556202: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91542948: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556694: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91559669: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91575309: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91564789: llenada - 2 PLAY MB + 2 DECOS + MESH
+   91574243: llenada - TE11 - SIN SERVICIO
+   91560709: llenada - 1 PLAY MB
+   91564909: llenada - TE11 - SIN SERVICIO
+   91561378: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91565760: llenada - PC15 - SIN SERVICIO
+   91564810: llenada - MO03 - SIN SERVICIO
+   91575342: llenada - PC02 - SIN SERVICIO
+   91561396: llenada - 1 PLAY MB
+   91578631: llenada - 1 PLAY MB + MESH
+   91575265: llenada - PC05 - SIN SERVICIO
+   91547761: llenada - PC02 - SIN SERVICIO
+   91509480: llenada - 1 PLAY MB + MESH
+   91539333: llenada - MO03 - SIN SERVICIO
+   91536469: llenada - 1 PLAY MB
+   91540961: llenada - 2 PLAY MB + 2 DECOS
+   91566483: llenada - 2 PLAY MB + TLF + MESH
+   91566082: llenada - 2 PLAY MB + 3 DECOS + MESH
+   91554205: llenada - EQ07 - SIN SERVICIO
+   91556811: llenada - EQ05 - SIN SERVICIO
+   91560081: llenada - PC03 - SIN SERVICIO
+   91561444: llenada - 1 PLAY MB + MESH
+   91560390: llenada - 2 PLAY MB + 2 DECOS + MESH
+   91559378: llenada - 1 PLAY MB + MESH
+   91555142: llenada - EQ06 - SIN SERVICIO
+   91561672: llenada - EQ05 - SIN SERVICIO
+   91554963: llenada - EQ05 - SIN SERVICIO
+   91559337: llenada - TE11 - SIN SERVICIO
+   91560661: llenada - 1 PLAY MB + MESH
+   91553271: llenada - 1 PLAY MB + MESH
+   91562416: llenada - 1 PLAY MB + MESH
+   91545747: llenada - 3 PLAY MB + TLF + 2 DECOS + MESH
+   91557947: llenada - 1 PLAY MB
+   91575769: llenada - 1 PLAY MB
+   91534043: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91458652: llenada - RETIRO 3 DECOS
+   91564765: llenada - CAMBIO DE EQUIPO
+   91554142: llenada - FI12 - SIN SERVICIO
+   91560979: llenada - FI12 - SIN SERVICIO
+   91543352: llenada - EQ05 - SIN SERVICIO
+   91530196: llenada - EQ09 - SIN SERVICIO
+   91574022: llenada - MO03 - SIN SERVICIO
+   91559039: llenada - PC03 - SIN SERVICIO
+   91493356: llenada - 2 PLAY MB + TLF
+   91535703: llenada - 1 PLAY MB
+   91297749: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91560051: llenada - 2 PLAY MB + TLF
+   91541484: llenada - PC02 - SIN SERVICIO
+   91557977: llenada - FI12 - SIN SERVICIO
+   91563696: llenada - FI10 - SIN SERVICIO
+   91580385: llenada - PC02 - SIN SERVICIO
+   91565489: llenada - EQ04 - SIN SERVICIO
+   91559309: llenada - 2 PLAY MB + 3 DECOS + MESH
+   91575490: llenada - 3 PLAY MB + TLF + 2 DECOS + MESH
+   91573924: llenada - 2 PLAY MB + TLF
+   91559599: llenada - 1 PLAY MB
+   91564371: llenada - 2 PLAY MB + 2 DECOS
+   91576117: llenada - 3 PLAY MB + TLF + 2 DECOS
+   91507355: llenada - 2 PLAY MB + 2 DECOS + MESH
+   91561092: llenada - 1 PLAY MB + MESH
+   91538549: llenada - 2 PLAY MB + 2 DECOS
+   91560433: llenada - EQ05 - SIN SERVICIO
+   91492109: llenada - INSTALACION MESH
+   91574260: llenada - MO03 - SIN SERVICIO
+   91574391: llenada - FI12 - SIN SERVICIO
+   91532496: llenada - RETIRO 1 DECO
+   91562237: llenada - 1 PLAY MB + MESH
+   91563539: llenada - 1 PLAY MB
+   91565527: llenada - PC02 - SIN SERVICIO
+   91575324: llenada - PC02 - SIN SERVICIO
+   91577408: llenada - AB02 - SIN SERVICIO
+Vuelta terminada: 68 llenadas, 12 sin paquete
 
-======== VUELTA 15:30:54: 8 SOTs ATENDIDAS sin paquete ========
+======== VUELTA 10:42:16: 80 SOTs ATENDIDAS sin paquete ========
    91542289  2026-10-06  ANCASH  FTTH Mantenimiento
    91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
    91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
    91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91553736  2026-10-07  CAJAMARCA - CHOTA  FTTH Traslado Interno
-   91554191  2026-10-07  LA LIBERTAD - WITLINK  FTTH - PV MIGRACION HFC A FTTH
-   91556882  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91556192  2026-10-07  LAMBAYEQUE  HFC Mantenimiento
-Instalación/postventa: 4 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91553736
-     3. 91554191
-     4. 91556882
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-3 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 3 de 4
-     1. 91553736  |  FTTH/SIAC - TRASLADO INTERNO
-     2. 91554191  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
-     3. 91556882  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-Clic en la pestaña 'Detalle Servicios': x=368, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 3 filas...
-91553736 | FTTH/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
-91554191 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
-91556882 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91556192
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la pestaña 'Agendamiento': x=474, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91556192 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91553736: llenada - TRASLADO INTERNO
-   91554191: llenada - 1 PLAY MB
-   91556882: llenada - 1 PLAY MB
-   91556192: llenada - PC02 - SIN SERVICIO
-Vuelta terminada: 4 llenadas, 4 sin paquete
-
-======== VUELTA 15:45:54: 9 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91552664  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
-   91345561  2026-10-07  LA LIBERTAD - WITLINK  FTTH Instalacion
+   91556202  2026-10-07  ANCASH  FTTH WA ENTREGA REPETIDOR MESH
    91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
-   91544880  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91537782  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-Instalación/postventa: 5 | mantenimiento: 4 | 'Fuera de TOA': 0
+   91556694  2026-10-07  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91559669  2026-10-08  ANCASH  FTTH Mantenimiento
+   91575309  2026-10-08  ANCASH  HFC Mantenimiento
+   91561378  2026-10-08  CAJAMARCA - JAEN  FTTH WA ENTREGA REPETIDOR MESH
+   91534043  2026-10-08  LA LIBERTAD - WITLINK  Fuera de TOA
+   91297749  2026-10-08  LA LIBERTAD - WITLINK  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+   91569379  2026-10-08  LAMBAYEQUE  HFC Mantenimiento
+   91574859  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91576024  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91574693  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91579289  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91560527  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91575861  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91575505  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91553968  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91553897  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91540596  2026-10-08  LAMBAYEQUE  HFC Instalación
+   91556968  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91564613  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91555604  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91578516  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91565072  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91575865  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91536321  2026-10-08  LAMBAYEQUE  FTTH Traslado Interno
+   91580466  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91558673  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91462391  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91387755  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91566503  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91559113  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91578526  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91564527  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91562713  2026-10-08  LAMBAYEQUE  HFC Instalación
+   91555432  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91576463  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91579448  2026-10-08  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91573593  2026-10-08  LAMBAYEQUE  HFC Mantenimiento
+   91574399  2026-10-08  LAMBAYEQUE  FTTH - PV ALTA ACCESORIO ADICIONAL
+   91577972  2026-10-08  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91566527  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91573793  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91564655  2026-10-08  LAMBAYEQUE  HFC Instalación
+   91564115  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91579060  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91528458  2026-10-08  LAMBAYEQUE  FTTH - PV MIGRACION HFC A FTTH
+   91556883  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91562935  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91447235  2026-10-08  LAMBAYEQUE  HFC - MANTENIMIENTO
+   91575379  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91578749  2026-10-08  LAMBAYEQUE  FTTH Mantenimiento
+   91575652  2026-10-08  LAMBAYEQUE  FTTH - PV ALTA ACCESORIO ADICIONAL
+   91579002  2026-10-08  LAMBAYEQUE  HFC WA ENTREGA REPETIDOR MESH
+   91504530  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91544016  2026-10-08  LAMBAYEQUE  HFC Instalación
+   91553016  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91530922  2026-10-08  LAMBAYEQUE  HFC Instalación
+   91536580  2026-10-08  LAMBAYEQUE  FTTH Instalacion
+   91574204  2026-10-08  PIURA  FTTH Mantenimiento
+   91575109  2026-10-08  PIURA  FTTH Mantenimiento
+   91575293  2026-10-08  PIURA  FTTH Mantenimiento
+   91557871  2026-10-08  PIURA  FTTH - PV MIGRACION HFC A FTTH
+   91580187  2026-10-08  PIURA  FTTH Instalacion
+   91539891  2026-10-08  PIURA  FTTH - PV MIGRACION HFC A FTTH
+   91443191  2026-10-08  PIURA  FTTH - PV MIGRACION HFC A FTTH
+   91575267  2026-10-08  PIURA  HFC Instalación
+   91552461  2026-10-08  PIURA  FTTH Instalacion
+   91546756  2026-10-08  PIURA  HFC Instalación
+   91560726  2026-10-08  PIURA  HFC Instalación
+   91541251  2026-10-08  PIURA  FTTH Instalacion
+   91428859  2026-10-08  PIURA  HFC Instalación
+   91553235  2026-10-08  PIURA  HFC Instalación
+   91548036  2026-10-08  PIURA  FTTH Mantenimiento
+   91544869  2026-10-08  PIURA  FTTH Instalacion
+   91577039  2026-10-08  PIURA  HFC Mantenimiento
+Instalación/postventa: 55 | mantenimiento: 25 | 'Fuera de TOA': 1
 SGA está al frente.
 Control de Tareas ya estaba abierto.
-OK: 5 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+OK: 55 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91501840
-     2. 91552664
-     3. 91345561
-     4. 91542948
-     5. 91537782
+     2. 91556202
+     3. 91542948
+     4. 91556694
+     5. 91561378
+     6. 91534043
+     7. 91297749
+     8. 91560527
+     9. 91575861
+    10. 91575505
+    11. 91553968
+    12. 91553897
+    13. 91540596
+    14. 91556968
+    15. 91564613
+    16. 91555604
+    17. 91578516
+    18. 91565072
+    19. 91575865
+    20. 91536321
+    21. 91558673
+    22. 91462391
+    23. 91387755
+    24. 91566503
+    25. 91559113
+    26. 91578526
+    27. 91564527
+    28. 91562713
+    29. 91579448
+    30. 91574399
+    31. 91577972
+    32. 91564655
+    33. 91564115
+    34. 91579060
+    35. 91528458
+    36. 91556883
+    37. 91575652
+    38. 91579002
+    39. 91504530
+    40. 91544016
+    41. 91553016
+    42. 91530922
+    43. 91536580
+    44. 91557871
+    45. 91580187
+    46. 91539891
+    47. 91443191
+    48. 91575267
+    49. 91552461
+    50. 91546756
+    51. 91560726
+    52. 91541251
+    53. 91428859
+    54. 91553235
+    55. 91544869
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -1235,30 +1044,164 @@ Clic en el botón 2 (confirmar).
 Clic en el botón 4 (palomita).
 Enter enviado en Filtros.
 Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
+Lista cargada hasta el final (4 bajadas).
+Lista de vuelta arriba.
 Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-3 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 3 de 5
-     1. 91552664  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     2. 91345561  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     3. 91537782  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
+51 filas copiadas de Control de Tareas.
+SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 51 de 55
+     1. 91556202  |  "#RETENCIÓN# 
+Customer ID:
+     2. 91556694  |  "#RETENCIÓN# 
+Customer ID:
+     3. 91561378  |  "#RETENCIÓN# 
+Customer ID:
+     4. 91560527  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+     5. 91575861  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     6. 91575505  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     7. 91553968  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+     8. 91553897  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     9. 91540596  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    10. 91556968  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    11. 91564613  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    12. 91555604  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    13. 91578516  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    14. 91565072  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    15. 91575865  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    16. 91536321  |  FTTH/SIAC - TRASLADO INTERNO
+    17. 91558673  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    18. 91462391  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    19. 91387755  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    20. 91566503  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    21. 91559113  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    22. 91578526  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    23. 91564527  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    24. 91562713  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    25. 91579448  |  FTTH - WA ENTREGA MESH
+    26. 91574399  |  FTTH/SIAC - ACCESORIO ADICIONAL
+    27. 91577972  |  FTTH - WA ENTREGA MESH
+    28. 91564655  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    29. 91564115  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    30. 91579060  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    31. 91528458  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    32. 91556883  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    33. 91575652  |  FTTH/SIAC - ACCESORIO ADICIONAL
+    34. 91579002  |  HFC - WA ENTREGA MESH
+    35. 91504530  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    36. 91544016  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    37. 91553016  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    38. 91530922  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    39. 91536580  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    40. 91557871  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    41. 91580187  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    42. 91539891  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    43. 91443191  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+    44. 91575267  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    45. 91552461  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    46. 91546756  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    47. 91560726  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    48. 91541251  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    49. 91428859  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    50. 91553235  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    51. 91544869  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+AVISO: 4 SOTs no aparecen en Control de Tareas: 91501840, 91542948, 91534043, 91297749
 Clic en la pestaña 'Detalle Servicios': x=368, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 3 filas...
-91537782 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-91345561 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91552664 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+Recorriendo 51 filas...
+91562713 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91564655 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91540596 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91544016 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91530922 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91574399 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
+91575652 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
+91536321 | FTTH/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
+91387755 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+91578526 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB + MESH
+   ... fila 10 de 51
+91553968 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91560527 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91579060 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+91528458 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91579002 | HFC - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION 2 MESH
+      - HFC Full Claro 150 up 300 Mbps  x 1
+      - HFC Full Claro 150 up 300 Mbps  x 1
+91577972 | FTTH - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION MESH
+      - Velocidad Total 1000Mbps-Bono  x 1
+91556202 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91561378 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91579448 | FTTH - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION MESH
+      - Velocidad Total 1000Mbps-Bono  x 1
+91536580 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+   ... fila 20 de 51
+91565072 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91504530 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91564527 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91578516 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91559113 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91553897 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91556883 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91564613 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91575861 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91566503 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 30 de 51
+91556968 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91564115 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91553016 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91558673 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91575505 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS + MESH
+91555604 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91462391 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91575865 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91553235 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91428859 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 40 de 51
+91546756 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
+91560726 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91575267 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91443191 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + TLF
+91557871 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91539891 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91556694 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91541251 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 1 DECO + MESH
+91544869 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91552461 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 50 de 51
+91580187 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
 
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+MANTENIMIENTOS: 26 SOTs -> CONTRATISTA MANTO HFC
+OK: 26 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91542289
      2. 91529656
      3. 91542664
-     4. 91544880
+     4. 91559669
+     5. 91575309
+     6. 91569379
+     7. 91574859
+     8. 91576024
+     9. 91574693
+    10. 91579289
+    11. 91580466
+    12. 91555432
+    13. 91576463
+    14. 91573593
+    15. 91566527
+    16. 91573793
+    17. 91562935
+    18. 91447235
+    19. 91575379
+    20. 91578749
+    21. 91574204
+    22. 91575109
+    23. 91575293
+    24. 91548036
+    25. 91577039
+    26. 91534043
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -1272,140 +1215,194 @@ Clic en el botón 2 (confirmar).
 Clic en el botón 4 (palomita).
 Enter enviado en Filtros.
 Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
+Lista cargada hasta el final (4 bajadas).
+Lista de vuelta arriba.
 Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
+20 filas copiadas de Control de Tareas.
 Clic en la pestaña 'Agendamiento': x=474, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91544880 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
+Recorriendo 20 filas de mantenimiento...
+91577039 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91574204 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91548036 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91575293 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
+91575109 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91573593 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91447235 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'STB problema del equipo + Cambio de Acometida' = EQ08 - SIN SERVICIO
+91569379 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA por Cambio de tecnología / Fidelización' = EQ04 - SIN SERVICIO
+91562935 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91576024 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio o reposición de cable JUMPER UTP' = PC15 - SIN SERVICIO
+   ... fila 10 de 20
+91566527 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Envio de comandos/reactivacion de servicios-TV' = FI11 - SIN SERVICIO
+91573793 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
+91555432 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91574859 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Pruebas de servicios integral' = FI07 - SIN SERVICIO
+91580466 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91578749 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio ONT/ EMTA Factores climatologicos' = EQ15 - SIN SERVICIO
+91574693 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'MANIPULACION CLIENTE - Equipos desconectados o problemas con las tomas eléctricas' = AB06 - SIN SERVICIO
+91576463 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Envio de comandos/reactivacion de servicios-TV' = FI11 - SIN SERVICIO
+91579289 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida + Cambio de cables internos' = PC03 - SIN SERVICIO
+91575379 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio conector optico' = PC18 - SIN SERVICIO
+   ... fila 20 de 20
+AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664, 91559669, 91575309, 91534043
    91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91552664: llenada - 1 PLAY MB
-   91345561: llenada - 1 PLAY MB
-   91542948: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91544880: llenada - MO03 - SIN SERVICIO
-   91537782: llenada - 1 PLAY MB + MESH
-Vuelta terminada: 4 llenadas, 5 sin paquete
+   91556202: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91542948: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556694: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91559669: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91575309: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91561378: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91534043: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91297749: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91569379: llenada - EQ04 - SIN SERVICIO
+   91574859: llenada - FI07 - SIN SERVICIO
+   91576024: llenada - PC15 - SIN SERVICIO
+   91574693: llenada - AB06 - SIN SERVICIO
+   91579289: llenada - PC03 - SIN SERVICIO
+   91560527: llenada - 1 PLAY MB
+   91575861: llenada - 1 PLAY MB
+   91575505: llenada - 2 PLAY MB + 2 DECOS + MESH
+   91553968: llenada - 1 PLAY MB
+   91553897: llenada - 2 PLAY MB + 2 DECOS
+   91540596: llenada - 1 PLAY MB
+   91556968: llenada - 1 PLAY MB
+   91564613: llenada - 1 PLAY MB
+   91555604: llenada - 1 PLAY MB
+   91578516: llenada - 1 PLAY MB
+   91565072: llenada - 1 PLAY MB + MESH
+   91575865: llenada - 1 PLAY MB
+   91536321: llenada - TRASLADO INTERNO
+   91580466: llenada - PC02 - SIN SERVICIO
+   91558673: llenada - 1 PLAY MB
+   91462391: llenada - 2 PLAY MB + 2 DECOS
+   91387755: llenada - 2 PLAY MB + TLF
+   91566503: llenada - 1 PLAY MB
+   91559113: llenada - 1 PLAY MB
+   91578526: llenada - 1 PLAY MB + MESH
+   91564527: llenada - 1 PLAY MB
+   91562713: llenada - 1 PLAY MB
+   91555432: llenada - EQ06 - SIN SERVICIO
+   91576463: llenada - FI11 - SIN SERVICIO
+   91579448: llenada - INSTALACION MESH
+   91573593: llenada - PC02 - SIN SERVICIO
+   91574399: llenada - INSTALACION MESH
+   91577972: llenada - INSTALACION MESH
+   91566527: llenada - FI11 - SIN SERVICIO
+   91573793: llenada - MO03 - SIN SERVICIO
+   91564655: llenada - 1 PLAY MB
+   91564115: llenada - 1 PLAY MB
+   91579060: llenada - 2 PLAY MB + TLF
+   91528458: llenada - 1 PLAY MB
+   91556883: llenada - 1 PLAY MB
+   91562935: llenada - PC02 - SIN SERVICIO
+   91447235: llenada - EQ08 - SIN SERVICIO
+   91575379: llenada - PC18 - SIN SERVICIO
+   91578749: llenada - EQ15 - SIN SERVICIO
+   91575652: llenada - INSTALACION MESH
+   91579002: llenada - INSTALACION 2 MESH
+   91504530: llenada - 1 PLAY MB + MESH
+   91544016: llenada - 1 PLAY MB
+   91553016: llenada - 1 PLAY MB
+   91530922: llenada - 1 PLAY MB
+   91536580: llenada - 1 PLAY MB + MESH
+   91574204: llenada - TE11 - SIN SERVICIO
+   91575109: llenada - TE11 - SIN SERVICIO
+   91575293: llenada - EQ05 - SIN SERVICIO
+   91557871: llenada - 2 PLAY MB + 2 DECOS
+   91580187: llenada - 2 PLAY MB + TLF
+   91539891: llenada - 1 PLAY MB
+   91443191: llenada - 2 PLAY MB + TLF
+   91575267: llenada - 1 PLAY MB
+   91552461: llenada - 1 PLAY MB
+   91546756: llenada - 2 PLAY MB + TLF
+   91560726: llenada - 1 PLAY MB
+   91541251: llenada - 2 PLAY MB + 1 DECO + MESH
+   91428859: llenada - 1 PLAY MB
+   91553235: llenada - 2 PLAY MB + 2 DECOS
+   91548036: llenada - MO03 - SIN SERVICIO
+   91544869: llenada - 1 PLAY MB
+   91577039: llenada - MO03 - SIN SERVICIO
+Vuelta terminada: 68 llenadas, 12 sin paquete
 
-======== VUELTA 16:00:54: 11 SOTs ATENDIDAS sin paquete ========
+======== VUELTA 10:57:16: 42 SOTs ATENDIDAS sin paquete ========
    91542289  2026-10-06  ANCASH  FTTH Mantenimiento
    91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
    91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
    91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91553535  2026-10-07  ANCASH  FTTH Mantenimiento
-   91529034  2026-10-07  ANCASH  FTTH Instalacion
-   91557552  2026-10-07  LA LIBERTAD - WITLINK  HFC Instalación
-   91548138  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91552765  2026-10-07  LAMBAYEQUE  FTTH Traslado Interno
-   91552953  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-   91557023  2026-10-07  PIURA  HFC Mantenimiento
-Instalación/postventa: 5 | mantenimiento: 6 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 5 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91529034
-     3. 91557552
-     4. 91552765
-     5. 91552953
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-4 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 4 de 5
-     1. 91529034  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     2. 91557552  |  HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     3. 91552765  |  FTTH/SIAC - TRASLADO INTERNO
-     4. 91552953  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-Clic en la pestaña 'Detalle Servicios': x=368, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 4 filas...
-91557552 | HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-91552765 | FTTH/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
-91529034 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF + MESH
-91552953 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-
-MANTENIMIENTOS: 6 SOTs -> CONTRATISTA MANTO HFC
-OK: 6 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91553535
-     5. 91548138
-     6. 91557023
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-3 filas copiadas de Control de Tareas.
-Clic en la pestaña 'Agendamiento': x=474, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 3 filas de mantenimiento...
-91548138 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA por Cambio de tecnología / Fidelización' = EQ04 - SIN SERVICIO
-91557023 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de cables internos UTP/STP' = PC17 - SIN SERVICIO
-91553535 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91553535: llenada - PC02 - SIN SERVICIO
-   91529034: llenada - 2 PLAY MB + TLF + MESH
-   91557552: llenada - 1 PLAY MB
-   91548138: llenada - EQ04 - SIN SERVICIO
-   91552765: llenada - TRASLADO INTERNO
-   91552953: llenada - 1 PLAY MB
-   91557023: llenada - PC17 - SIN SERVICIO
-Vuelta terminada: 7 llenadas, 4 sin paquete
-
-======== VUELTA 16:15:54: 6 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91555735  2026-10-07  ANCASH  FTTH Mantenimiento
+   91556202  2026-10-07  ANCASH  FTTH WA ENTREGA REPETIDOR MESH
    91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
-Instalación/postventa: 2 | mantenimiento: 4 | 'Fuera de TOA': 0
+   91556694  2026-10-07  LAMBAYEQUE  FTTH WA ENTREGA REPETIDOR MESH
+   91559669  2026-10-08  ANCASH  FTTH Mantenimiento
+   91575309  2026-10-08  ANCASH  HFC Mantenimiento
+   91561378  2026-10-08  CAJAMARCA - JAEN  FTTH WA ENTREGA REPETIDOR MESH
+   91534043  2026-10-08  LA LIBERTAD - WITLINK  Fuera de TOA
+   91297749  2026-10-08  LA LIBERTAD - WITLINK  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+   91575085  2026-10-09  ANCASH  FTTH Mantenimiento
+   91574544  2026-10-09  ANCASH  FTTH - PV ALTA ACCESORIO ADICIONAL
+   91576000  2026-10-09  ANCASH  FTTH Traslado Interno
+   91582991  2026-10-09  CAJAMARCA - CHOTA  FTTH Instalacion
+   91581131  2026-10-09  CAJAMARCA - CHOTA  FTTH Cambio de plan
+   91551917  2026-10-09  CAJAMARCA - JAEN  FTTH Instalacion
+   91538255  2026-10-09  CAJAMARCA - JAEN  FTTH Instalacion
+   91577310  2026-10-09  LA LIBERTAD - WITLINK  FTTH Traslado Externo
+   91554131  2026-10-09  LA LIBERTAD - WITLINK  HFC - PV ALTA ACCESORIO ADICIONAL
+   91538812  2026-10-09  LA LIBERTAD - WITLINK  HFC - PV TRASLADO INTERNO
+   91558302  2026-10-09  LA LIBERTAD - WITLINK  HFC WA ENTREGA REPETIDOR MESH
+   91564979  2026-10-09  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91566484  2026-10-09  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91555293  2026-10-09  LA LIBERTAD - WITLINK  HFC - PV TRASLADO INTERNO
+   91564960  2026-10-09  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91581110  2026-10-09  LA LIBERTAD - WITLINK  FTTH Mantenimiento
+   91574280  2026-10-09  LAMBAYEQUE  FTTH Traslado Externo
+   91532980  2026-10-09  LAMBAYEQUE  FTTH Instalacion
+   91604486  2026-10-09  LAMBAYEQUE  FTTH Mantenimiento
+   91613707  2026-10-09  LAMBAYEQUE  FTTH Mantenimiento
+   91559301  2026-10-09  LAMBAYEQUE  FTTH Instalacion
+   91556812  2026-10-09  LAMBAYEQUE  FTTH Instalacion
+   91555124  2026-10-09  LAMBAYEQUE  FTTH Instalacion
+   91576998  2026-10-09  LAMBAYEQUE  FTTH Instalacion
+   91580889  2026-10-09  LAMBAYEQUE  HFC Mantenimiento
+   91583303  2026-10-09  LAMBAYEQUE  FTTH Mantenimiento
+   91574109  2026-10-09  PIURA  Fuera de TOA
+   91559685  2026-10-09  PIURA  FTTH - PV ALTA ACCESORIO ADICIONAL
+   91578928  2026-10-09  PIURA  FTTH Mantenimiento
+   91576285  2026-10-09  PIURA  Fuera de TOA
+Instalación/postventa: 27 | mantenimiento: 15 | 'Fuera de TOA': 3
 SGA está al frente.
 Control de Tareas ya estaba abierto.
-OK: 2 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+OK: 27 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91501840
-     2. 91542948
+     2. 91556202
+     3. 91542948
+     4. 91556694
+     5. 91561378
+     6. 91534043
+     7. 91297749
+     8. 91574544
+     9. 91576000
+    10. 91582991
+    11. 91581131
+    12. 91551917
+    13. 91538255
+    14. 91577310
+    15. 91554131
+    16. 91538812
+    17. 91558302
+    18. 91555293
+    19. 91574280
+    20. 91532980
+    21. 91559301
+    22. 91556812
+    23. 91555124
+    24. 91576998
+    25. 91574109
+    26. 91559685
+    27. 91576285
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -1419,114 +1416,304 @@ Clic en el botón 2 (confirmar).
 Clic en el botón 4 (palomita).
 Enter enviado en Filtros.
 Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
+Lista cargada hasta el final (4 bajadas).
+Lista de vuelta arriba.
 Clic en la primera SOT: x=418, y=124
 Primera SOT seleccionada.
 Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
 Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-0 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 0 de 2
-AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
-No hay SOTs en la lista de Control de Tareas; nada que recorrer en esta pasada.
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91555735
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91555735 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'STB problema del equipo + Cambio de Acometida' = EQ08 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91555735: llenada - EQ08 - SIN SERVICIO
-   91542948: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 1 llenadas, 5 sin paquete
-
-======== VUELTA 16:30:54: 10 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91543500  2026-10-07  ANCASH  FTTH Mantenimiento
-   91538957  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91551448  2026-10-07  LA LIBERTAD - WITLINK  HFC Mantenimiento
-   91559884  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91558562  2026-10-07  LAMBAYEQUE  HFC Cambio de Plan
-   91555738  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-Instalación/postventa: 2 | mantenimiento: 8 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 2 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91558562
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 1 de 2
-     1. 91558562  |  HFC/SIAC - CAMBIO DE PLAN
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
+23 filas copiadas de Control de Tareas.
+SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 23 de 27
+     1. 91556202  |  "#RETENCIÓN# 
+Customer ID:
+     2. 91556694  |  "#RETENCIÓN# 
+Customer ID:
+     3. 91561378  |  "#RETENCIÓN# 
+Customer ID:
+     4. 91574544  |  FTTH/SIAC - ACCESORIO ADICIONAL
+     5. 91576000  |  FTTH/SIAC - TRASLADO INTERNO
+     6. 91582991  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     7. 91581131  |  FTTH/SIAC - CAMBIO DE PLAN
+     8. 91551917  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     9. 91538255  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    10. 91577310  |  FTTH/SIAC - TRASLADO EXTERNO
+    11. 91554131  |  HFC/SIAC - ACCESORIO ADICIONAL
+    12. 91538812  |  HFC/SIAC - TRASLADO INTERNO
+    13. 91558302  |  HFC - WA ENTREGA MESH
+    14. 91555293  |  HFC/SIAC - TRASLADO INTERNO
+    15. 91574280  |  FTTH/SIAC - TRASLADO EXTERNO
+    16. 91532980  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    17. 91559301  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    18. 91556812  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    19. 91555124  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    20. 91576998  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+    21. 91574109  |  FTTH/SIAC - CAMBIO DE PLAN
+    22. 91559685  |  FTTH/SIAC - ACCESORIO ADICIONAL
+    23. 91576285  |  FTTH/SIAC - CAMBIO DE PLAN
+AVISO: 4 SOTs no aparecen en Control de Tareas: 91501840, 91542948, 91534043, 91297749
 Clic en la pestaña 'Detalle Servicios': x=368, y=313
 Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas...
-91558562 | HFC/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Recorriendo 23 filas...
+91538812 | HFC/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
+91555293 | HFC/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
+91581131 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
 Clic en la pestaña 'Buscar': x=43, y=99
-Buscando la SOT 91558562 en Consulta Histórica...
+Buscando la SOT 91581131 en Consulta Histórica...
 Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Cayó en 'Orden de Trabajo'; me corro a la izquierda...
    Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
-   91558562: SOT anterior = 86971163 (HFC - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 28/04/2026)
-   -> PAQUETE: RETIRO 2 DECOS
+SGA está ocupado; esperando...
+   91581131: SOT anterior = 88316567 (FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 13/06/2026)
+   -> PAQUETE: RETIRO 1 MESH
+91574109 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Clic en la pestaña 'Buscar': x=43, y=99
+Buscando la SOT 91574109 en Consulta Histórica...
+Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
+   91574109: SOT anterior = 85771849 (FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 19/03/2026)
+   -> PAQUETE: BAJA PARCIAL
+91576285 | FTTH/SIAC - CAMBIO DE PLAN  ->  POSTVENTA: buscando la SOT anterior en Consulta Histórica...
+Clic en la pestaña 'Buscar': x=43, y=99
+Buscando la SOT 91576285 en Consulta Histórica...
+Clic en la pestaña 'Solicitudes de OT': x=1505, y=99
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Cayó en 'Orden de Trabajo'; me corro a la izquierda...
+   Pestaña 'Solicitudes de OT' encontrada (corregida a x=1475).
+   91576285: SOT anterior = 65183804 (FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL, 05/10/2023)
+   La SOT anterior es igual; uso la observación: 'DOWNGRADE: Full Claro 600 Mbps - A - FTTH Internet 200 Mbps  RETIRAR: 1 ENRUTADOR
+NOMBRE: MIXI MARGOT CASTILLO RAYMUNDO
+DNI: 
+03379824
+ID: 
+1791476839-2372513
+ CEL : 
 
-MANTENIMIENTOS: 8 SOTs -> CONTRATISTA MANTO HFC
-OK: 8 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+943327295
+
+DESCRIPCION: CAMBIO DE PLAN YA QUE SE ENCUENTRA CON PROBLEMAS ECONOMICOS Y SE LE DARA VISITA PARA EL RETIRO DE REPETIDORES
+ - TLF. REF.:943327295.'
+   -> PAQUETE: RETIRO 2 MESH + TLF
+91554131 | HFC/SIAC - ACCESORIO ADICIONAL  ->  ACCESORIO: INSTALACION MESH
+      - Alquiler de Equipos INT-REPETIDOR WF-808 CIG  x 1
+91574544 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
+91559685 | FTTH/SIAC - ACCESORIO ADICIONAL  ->  INSTALACION: INSTALACION MESH
+91577310 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 1 PLAY MB
+91574280 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 1 PLAY MB
+   ... fila 10 de 23
+91576000 | FTTH/SIAC - TRASLADO INTERNO  ->  PAQUETE FIJO: TRASLADO INTERNO
+91558302 | HFC - WA ENTREGA MESH  ->  ENTREGA MESH: INSTALACION 2 MESH
+      - Velocidad Total 1000Mbps-Bono  x 1
+      - Velocidad Total 1000Mbps-Bono  x 1
+91556202 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91561378 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91532980 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91555124 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91556812 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91538255 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91551917 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91559301 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+   ... fila 20 de 23
+91582991 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + 2 DECOS
+91576998 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91556694 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+
+MANTENIMIENTOS: 16 SOTs -> CONTRATISTA MANTO HFC
+OK: 16 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
      1. 91542289
      2. 91529656
      3. 91542664
-     4. 91543500
-     5. 91538957
-     6. 91551448
-     7. 91559884
-     8. 91555738
+     4. 91559669
+     5. 91575309
+     6. 91575085
+     7. 91564979
+     8. 91566484
+     9. 91564960
+    10. 91581110
+    11. 91604486
+    12. 91613707
+    13. 91580889
+    14. 91583303
+    15. 91578928
+    16. 91534043
+Doble clic en WITLINK S.A.C
+Opción de menú elegida: Aplicación -> Buscar
+Ventana Filtros abierta.
+Clic en '...' de SOT: x=391, y=164
+Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
+Botones encontrados abajo: 6
+Clic en el botón 3 (tacho): lista vaciada.
+Clic en el botón 1 (pegar).
+AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
+Clic en el botón 2 (confirmar).
+Clic en el botón 4 (palomita).
+Enter enviado en Filtros.
+Filtros se cerró: las SOTs se están cargando en Control de Tareas.
+Lista cargada hasta el final (3 bajadas).
+Lista de vuelta arriba.
+Clic en la primera SOT: x=418, y=124
+Primera SOT seleccionada.
+Opción de menú elegida: Aplicación -> Exportar -> Clipboard
+10 filas copiadas de Control de Tareas.
+Clic en la pestaña 'Agendamiento': x=474, y=313
+Clic en la primera SOT: x=418, y=124
+Recorriendo 10 filas de mantenimiento...
+91564960 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'EMTA  Cambio por tecnología / Fidelización - NEGOCIO + IP FIJA' = EQ13 - SIN SERVICIO
+91580889 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Divisor averiado' = PC13 - SIN SERVICIO
+91583303 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de cables internos Telefónico' = PC16 - SIN SERVICIO
+91613707 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion de aplicaciones en deco IPTV' = FI14 - SIN SERVICIO
+91566484 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'STB problema del equipo' = EQ09 - SIN SERVICIO
+91564979 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Conector óptico sucio' = PC06 - SIN SERVICIO
+91575085 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+91604486 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Configuracion de aplicaciones en deco IPTV' = FI14 - SIN SERVICIO
+91581110 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91578928 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+   ... fila 10 de 10
+AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664, 91559669, 91575309, 91534043
+   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556202: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91542948: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556694: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91559669: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91575309: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91561378: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91534043: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91297749: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91575085: llenada - TE11 - SIN SERVICIO
+   91574544: llenada - INSTALACION MESH
+   91576000: llenada - TRASLADO INTERNO
+   91582991: llenada - 2 PLAY MB + 2 DECOS
+   91581131: llenada - RETIRO 1 MESH
+   91551917: llenada - 1 PLAY MB
+   91538255: llenada - 1 PLAY MB
+   91577310: llenada - 1 PLAY MB
+   91554131: llenada - INSTALACION MESH
+   91538812: llenada - TRASLADO INTERNO
+   91558302: llenada - INSTALACION 2 MESH
+   91564979: llenada - PC06 - SIN SERVICIO
+   91566484: llenada - EQ09 - SIN SERVICIO
+   91555293: llenada - TRASLADO INTERNO
+   91564960: llenada - EQ13 - SIN SERVICIO
+   91581110: llenada - PC02 - SIN SERVICIO
+   91574280: llenada - 1 PLAY MB
+   91532980: llenada - 1 PLAY MB + MESH
+   91604486: llenada - FI14 - SIN SERVICIO
+   91613707: llenada - FI14 - SIN SERVICIO
+   91559301: llenada - 1 PLAY MB
+   91556812: llenada - 1 PLAY MB + MESH
+   91555124: llenada - 1 PLAY MB
+   91576998: llenada - 1 PLAY MB + MESH
+   91580889: llenada - PC13 - SIN SERVICIO
+   91583303: llenada - PC16 - SIN SERVICIO
+   91574109: llenada - BAJA PARCIAL
+   91559685: llenada - INSTALACION MESH
+   91578928: llenada - TE11 - SIN SERVICIO
+   91576285: llenada - RETIRO 2 MESH + TLF (fuera de la lista)
+Vuelta terminada: 30 llenadas, 12 sin paquete
+
+======== VUELTA 11:12:16: 21 SOTs ATENDIDAS sin paquete ========
+   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
+   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
+   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
+   91542664  2026-10-06  PIURA  FTTH Mantenimiento
+   91556202  2026-10-07  ANCASH  FTTH - WA ENTREGA MESH
+   91542948  2026-10-07  LAMBAYEQUE  FTTH - RECOJO WA PLUME
+   91556694  2026-10-07  LAMBAYEQUE  FTTH - WA ENTREGA MESH
+   91559669  2026-10-08  ANCASH  FTTH Mantenimiento
+   91575309  2026-10-08  ANCASH  HFC Mantenimiento
+   91561378  2026-10-08  CAJAMARCA - JAEN  FTTH - WA ENTREGA MESH
+   91534043  2026-10-08  LA LIBERTAD - WITLINK  Fuera de TOA
+   91297749  2026-10-08  LA LIBERTAD - WITLINK  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+   91574795  2026-10-09  ANCASH  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+   91575205  2026-10-09  LA LIBERTAD - WITLINK  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+   91542659  2026-10-09  LA LIBERTAD - WITLINK  HFC - MANTENIMIENTO CLARO EMPRESAS
+   91580431  2026-10-09  LA LIBERTAD - WITLINK  HFC Mantenimiento
+   91580234  2026-10-09  LAMBAYEQUE  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+   91611964  2026-10-09  LAMBAYEQUE  FTTH - MANTENIMIENTO
+   91554893  2026-10-09  LAMBAYEQUE  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+   91583061  2026-10-09  LAMBAYEQUE  FTTH Mantenimiento
+   91581618  2026-10-09  PIURA  FTTH - MANTENIMIENTO
+Instalación/postventa: 11 | mantenimiento: 10 | 'Fuera de TOA': 1
+SGA está al frente.
+Control de Tareas ya estaba abierto.
+OK: 11 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+     1. 91501840
+     2. 91556202
+     3. 91542948
+     4. 91556694
+     5. 91561378
+     6. 91534043
+     7. 91297749
+     8. 91574795
+     9. 91575205
+    10. 91580234
+    11. 91554893
+Doble clic en WITLINK S.A.C
+Opción de menú elegida: Aplicación -> Buscar
+Ventana Filtros abierta.
+Clic en '...' de SOT: x=391, y=164
+Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
+Botones encontrados abajo: 6
+Clic en el botón 3 (tacho): lista vaciada.
+Clic en el botón 1 (pegar).
+AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
+Clic en el botón 2 (confirmar).
+Clic en el botón 4 (palomita).
+Enter enviado en Filtros.
+Filtros se cerró: las SOTs se están cargando en Control de Tareas.
+La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
+Clic en la primera SOT: x=418, y=124
+Primera SOT seleccionada.
+Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
+Opción de menú elegida: Aplicación -> Exportar -> Clipboard
+7 filas copiadas de Control de Tareas.
+SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 7 de 11
+     1. 91556202  |  "#RETENCIÓN# 
+Customer ID:
+     2. 91556694  |  "#RETENCIÓN# 
+Customer ID:
+     3. 91561378  |  "#RETENCIÓN# 
+Customer ID:
+     4. 91574795  |  FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH
+     5. 91575205  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     6. 91580234  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+     7. 91554893  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
+AVISO: 4 SOTs no aparecen en Control de Tareas: 91501840, 91542948, 91534043, 91297749
+Clic en la pestaña 'Detalle Servicios': x=368, y=313
+Clic en la primera SOT: x=418, y=124
+Recorriendo 7 filas...
+91574795 | FTTH/SIAC - MIGRACION TECNOLOGICA DE HFC A FTTH  ->  INSTALACION: 1 PLAY MB
+91556202 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91561378 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+91580234 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
+91575205 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 2 PLAY MB + TLF
+91554893 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
+91556694 | "#RETENCIÓN# 
+Customer ID:  -> omitida (todavía no sé llenar este tipo)
+
+MANTENIMIENTOS: 11 SOTs -> CONTRATISTA MANTO HFC
+OK: 11 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
+     1. 91542289
+     2. 91529656
+     3. 91542664
+     4. 91559669
+     5. 91575309
+     6. 91542659
+     7. 91580431
+     8. 91611964
+     9. 91583061
+    10. 91581618
+    11. 91534043
 Doble clic en WITLINK S.A.C
 Opción de menú elegida: Aplicación -> Buscar
 Ventana Filtros abierta.
@@ -1548,288 +1735,32 @@ Opción de menú elegida: Aplicación -> Exportar -> Clipboard
 Clic en la pestaña 'Agendamiento': x=474, y=313
 Clic en la primera SOT: x=418, y=124
 Recorriendo 5 filas de mantenimiento...
-91538957 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91551448 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
-91559884 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91543500 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-91555738 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
+91580431 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + Cambio de Acometida' = EQ06 - SIN SERVICIO
+91542659 | HFC - MANTENIMIENTO CLARO EMPRESAS  ->  MANTENIMIENTO: 'Configuracion Wifi equipos Claro' = FI12 - SIN SERVICIO
+91611964 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
+91583061 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo + cambio de Cable interno' = EQ07 - SIN SERVICIO
+91581618 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Acometida cortada' = TE11 - SIN SERVICIO
+AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664, 91559669, 91575309, 91534043
    91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
    91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91543500: llenada - PC02 - SIN SERVICIO
-   91538957: llenada - PC02 - SIN SERVICIO
-   91551448: llenada - EQ05 - SIN SERVICIO
-   91559884: llenada - PC02 - SIN SERVICIO
-   91558562: llenada - RETIRO 2 DECOS
-   91555738: llenada - PC02 - SIN SERVICIO
-Vuelta terminada: 6 llenadas, 4 sin paquete
+   91556202: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91542948: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91556694: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91559669: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91575309: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91561378: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91534043: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91297749: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
+   91574795: llenada - 1 PLAY MB
+   91575205: llenada - 2 PLAY MB + TLF
+   91542659: llenada - FI12 - SIN SERVICIO
+   91580431: llenada - EQ06 - SIN SERVICIO
+   91580234: llenada - 1 PLAY MB
+   91611964: llenada - PC02 - SIN SERVICIO
+   91554893: llenada - 1 PLAY MB + MESH
+   91583061: llenada - EQ07 - SIN SERVICIO
+   91581618: llenada - TE11 - SIN SERVICIO
+Vuelta terminada: 9 llenadas, 12 sin paquete
 
-======== VUELTA 16:45:54: 9 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91458947  2026-10-07  ANCASH  FTTH Traslado Externo
-   91557041  2026-10-07  ANCASH  FTTH Instalacion
-   91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
-   91527566  2026-10-07  LAMBAYEQUE  FTTH - MANTENIMIENTO
-   91508451  2026-10-07  PIURA  HFC Cambio de equipo
-Instalación/postventa: 5 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 5 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91458947
-     3. 91557041
-     4. 91542948
-     5. 91508451
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-3 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 3 de 5
-     1. 91458947  |  FTTH/SIAC - TRASLADO EXTERNO
-     2. 91557041  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-     3. 91508451  |  "tel ref: 920374148
-
-¿¿ Ofrece: Cambio de router
-Speech sugerido
-AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
-Clic en la pestaña 'Detalle Servicios': x=368, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 3 filas...
-91508451 | "tel ref: 920374148
-
-¿¿ Ofrece: Cambio de router
-Speech sugerido  -> omitida (todavía no sé llenar este tipo)
-91458947 | FTTH/SIAC - TRASLADO EXTERNO  ->  INSTALACION: 1 PLAY MB
-91557041 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB + MESH
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91527566
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la pestaña 'Agendamiento': x=474, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91527566 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Problema de cobertura WIFI' = FI06 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91458947: llenada - 1 PLAY MB
-   91557041: llenada - 1 PLAY MB + MESH
-   91542948: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91527566: llenada - FI06 - SIN SERVICIO
-   91508451: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 3 llenadas, 6 sin paquete
-
-======== VUELTA 17:00:54: 6 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91534149  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91496635  2026-10-07  LAMBAYEQUE  FTTH Instalacion
-Instalación/postventa: 2 | mantenimiento: 4 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 2 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91496635
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 1 de 2
-     1. 91496635  |  FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL
-AVISO: 1 SOTs no aparecen en Control de Tareas: 91501840
-Clic en la pestaña 'Detalle Servicios': x=368, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas...
-91496635 | FTTH - SISACT INSTALACION PAQUETES TODO CLARO DIGITAL  ->  INSTALACION: 1 PLAY MB
-
-MANTENIMIENTOS: 4 SOTs -> CONTRATISTA MANTO HFC
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91534149
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-1 filas copiadas de Control de Tareas.
-Clic en la pestaña 'Agendamiento': x=474, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 1 filas de mantenimiento...
-91534149 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cambio de acometida' = PC02 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91534149: llenada - PC02 - SIN SERVICIO
-   91496635: llenada - 1 PLAY MB
-Vuelta terminada: 2 llenadas, 4 sin paquete
-
-======== VUELTA 17:15:54: 9 SOTs ATENDIDAS sin paquete ========
-   91542289  2026-10-06  ANCASH  FTTH Mantenimiento
-   91501840  2026-10-06  CAJAMARCA - JAEN  FTTH Instalacion
-   91529656  2026-10-06  LAMBAYEQUE  HFC - MANTENIMIENTO
-   91542664  2026-10-06  PIURA  FTTH Mantenimiento
-   91556881  2026-10-07  ANCASH  HFC Mantenimiento
-   91542948  2026-10-07  LAMBAYEQUE  FTTH - PLUME
-   91559320  2026-10-07  LAMBAYEQUE  FTTH Mantenimiento
-   91556393  2026-10-07  LAMBAYEQUE  HFC Cambio de equipo
-   91508451  2026-10-07  PIURA  HFC Cambio de equipo
-Instalación/postventa: 4 | mantenimiento: 5 | 'Fuera de TOA': 0
-SGA está al frente.
-Control de Tareas ya estaba abierto.
-OK: 4 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91501840
-     2. 91542948
-     3. 91556393
-     4. 91508451
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Leyendo la lista de Control de Tareas (Aplicación -> Exportar -> Clipboard)...
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-2 filas copiadas de Control de Tareas.
-SOTs de TODAS LAS SEDES con su Tipo de trabajo en SGA: 2 de 4
-     1. 91556393  |  HFC/SIAC - CAMBIO DE EQUIPO
-     2. 91508451  |  "tel ref: 920374148
-
-¿¿ Ofrece: Cambio de router
-Speech sugerido
-AVISO: 2 SOTs no aparecen en Control de Tareas: 91501840, 91542948
-Clic en la pestaña 'Detalle Servicios': x=368, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 2 filas...
-91556393 | HFC/SIAC - CAMBIO DE EQUIPO  ->  PAQUETE FIJO: CAMBIO DE EQUIPO
-91508451 | "tel ref: 920374148
-
-¿¿ Ofrece: Cambio de router
-Speech sugerido  -> omitida (todavía no sé llenar este tipo)
-
-MANTENIMIENTOS: 5 SOTs -> CONTRATISTA MANTO HFC
-OK: 5 SOTs copiadas al portapapeles (puedes pegarlas con Ctrl+V).
-     1. 91542289
-     2. 91529656
-     3. 91542664
-     4. 91556881
-     5. 91559320
-Doble clic en WITLINK S.A.C
-Opción de menú elegida: Aplicación -> Buscar
-Ventana Filtros abierta.
-Clic en '...' de SOT: x=391, y=164
-Ventana de SOTs abierta: 'Selección Multiple para Listado' FNWNS3170
-Botones encontrados abajo: 6
-Clic en el botón 3 (tacho): lista vaciada.
-Clic en el botón 1 (pegar).
-AVISO: no pude leer el 'Total' de la ventana; se continúa sin verificarlo.
-Clic en el botón 2 (confirmar).
-Clic en el botón 4 (palomita).
-Enter enviado en Filtros.
-Filtros se cerró: las SOTs se están cargando en Control de Tareas.
-La lista no tiene barra vertical (caben todas las SOTs en pantalla); no hace falta bajar.
-Clic en la primera SOT: x=418, y=124
-Primera SOT seleccionada.
-Opción de menú elegida: Aplicación -> Exportar -> Clipboard
-2 filas copiadas de Control de Tareas.
-Clic en la pestaña 'Agendamiento': x=474, y=313
-Clic en la primera SOT: x=418, y=124
-Recorriendo 2 filas de mantenimiento...
-91559320 | FTTH - MANTENIMIENTO  ->  MANTENIMIENTO: 'Cliente informa Servicio conforme-visita técnica' = MO03 - SIN SERVICIO
-91556881 | HFC - MANTENIMIENTO  ->  MANTENIMIENTO: 'ONT/EMTA - Problemas con el equipo' = EQ05 - SIN SERVICIO
-AVISO: estas SOTs de mantenimiento no aparecieron en CONTRATISTA MANTO HFC: 91542289, 91529656, 91542664
-   91542289: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91501840: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91529656: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91542664: revisar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91556881: llenada - EQ05 - SIN SERVICIO
-   91542948: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-   91559320: llenada - MO03 - SIN SERVICIO
-   91556393: llenada - CAMBIO DE EQUIPO
-   91508451: reintentar - no la encontré en SGA (CONTRATISTA ALTA BAJA ni MANTO HFC)
-Vuelta terminada: 3 llenadas, 6 sin paquete
