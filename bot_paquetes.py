@@ -19,8 +19,10 @@
 # Requisitos (solo la primera vez): python -m pip install playwright pywinauto
 # Uso: python bot_paquetes.py --auto   (token.txt; no pide iniciar sesión en Witlink)
 
+import csv                                   # csv lee bien los textos entre comillas de la lista exportada
 import ctypes                                # ctypes permite llamar a funciones de Windows (saber qué ventana está al frente)
 import datetime                              # datetime permite calcular la fecha de ayer
+import io                                    # io permite leer un texto como si fuera un archivo
 import json                                  # json guarda el avance en progreso_paquetes.json
 import os                                    # os arma las rutas de los archivos del bot
 import re                                    # re permite buscar palabras completas en los servicios
@@ -1122,6 +1124,16 @@ def _partir_exportacion(texto):
     texto = texto.replace("\r\n", "\n")
     cabecera = texto.split("\n", 1)[0].split("\t")
     total = len(cabecera)
+    # 1) SGA pone ENTRE COMILLAS los textos que traen saltos de línea o tabuladores
+    #    (por ejemplo '"#RETENCIÓN# <salto> Customer ID: ..."'); el lector CSV los respeta como una sola celda.
+    try:
+        leidas = list(csv.reader(io.StringIO(texto), delimiter="	", quotechar='"'))[1:]
+        leidas = [f for f in leidas if any(c.strip() for c in f)]          # sin líneas vacías
+        if leidas and all(len(f) == total and f[0].strip().isdigit() for f in leidas):
+            return cabecera, leidas
+    except csv.Error:
+        pass
+    # 2) Si no cuadra, la forma anterior (textos SIN comillas con tabuladores dentro de la observación)
     obs = cabecera.index("observacion") if "observacion" in cabecera else None
     registros = re.split(r"\n(?=\d+\t)", texto)[1:]   # sin la cabecera
     filas = []
@@ -2408,7 +2420,7 @@ def _contexto_https():
 
 
 def _abrir_api(pedido):
-    import ssl
+    """Llama a Witlink SIEMPRE verificando su certificado: el token nunca viaja por una conexión dudosa."""
     import urllib.error
     import urllib.request
     try:
@@ -2416,8 +2428,9 @@ def _abrir_api(pedido):
     except urllib.error.URLError as error:
         if "CERTIFICATE_VERIFY_FAILED" not in str(error):
             raise
-        print("Esta PC no reconoce el certificado de Witlink. La llamada sigue, sin esa verificación.")
-        return urllib.request.urlopen(pedido, timeout=120, context=ssl._create_unverified_context())
+        raise RuntimeError("Esta PC no reconoce el certificado de Witlink; no envío el token así. Revisa que la "
+                           "fecha y hora de la PC estén bien y ejecuta: python -m pip install --upgrade certifi. "
+                           "Si hay un antivirus o proxy que revisa HTTPS, debe permitir witlink.com.pe.") from None
 
 
 def _api(metodo, datos=None, consulta=""):
