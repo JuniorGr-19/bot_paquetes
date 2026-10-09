@@ -54,6 +54,7 @@
   {"codigo": "PC23", "categoria": "DISPOSITIVO INTERNO", "afectacion": "I/V//T", "motivo": "Retiro de cables internos"},
 
   {"codigo": "AB01", "categoria": "CLIENTE", "afectacion": "Video", "motivo": "MANIPULACION CLIENTE - Televisor /Control Remoto/Android TV desprogramados"},
+  {"codigo": "AB02", "categoria": "CLIENTE", "afectacion": "Video", "motivo": "MANIPULACION CLIENTE - Cliente desconfiguró equipo ONT/EMTA"},
   {"codigo": "AB03", "categoria": "CLIENTE", "afectacion": "I/V//T", "motivo": "MANIPULACION CLIENTE - Cliente modificó red interna"},
   {"codigo": "AB04", "categoria": "CLIENTE", "afectacion": "Internet", "motivo": "MANIPULACION CLIENTE - Comparte señal a otras personas/ varias PCs conectadas (Cabina)"},
   {"codigo": "AB05", "categoria": "CLIENTE", "afectacion": "Telefonía", "motivo": "MANIPULACION CLIENTE - Equipo telefónico desconfigurado o mal conectado"},
